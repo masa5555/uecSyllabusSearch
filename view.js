@@ -1,18 +1,17 @@
-
-//json => object 
-//reference: https://miyakoroom.blogspot.com/2018/09/javascript-web.html
+//reference of readJSON(): https://miyakoroom.blogspot.com/2018/09/javascript-web.html
 function readJSON(){
   var f = "data.json";
   var retJson;
   var obj = new XMLHttpRequest();
  
-  obj.open( 'get', f, false ); //ファイルオープン : 同期モード
+  obj.open('get', f, false); //ファイルオープン : 同期モード
   obj.onload = function() {
     retJson = JSON.parse(this.responseText); //JSON型でパース。
   }
   obj.send(null); 
   return retJson;
 }
+
 function view(){
   document.writeln("<table>");
   document.write(
@@ -53,5 +52,6 @@ function search(pattern, item){
     }
   }
 }
+
 var data = readJSON();
 view();

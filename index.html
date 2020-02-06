@@ -7,9 +7,19 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <div class="bt">
-      科目名検索
-      <input type="text" id="sn" onInput="searchName(this.value)"></input>
+    <div class="win">
+      <div class="bt">
+        曜日検索
+        <input type="text" id="sn" onInput="search(this.value, 'time')"></input>
+      </div>
+      <div class="bt">
+        科目名検索
+        <input type="text" id="sn" onInput="search(this.value, 'name')"></input>
+      </div>
+      <div class="bt">
+        教員検索
+        <input type="text" id="sn" onInput="search(this.value, 'teacher')"></input>
+      </div>
     </div>
     <script src="view.js"></script>
   </body>

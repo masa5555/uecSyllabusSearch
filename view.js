@@ -13,8 +13,6 @@ function readJSON(){
   obj.send(null); 
   return retJson;
 }
-
-// frag ついてるのだけ表示
 function view(){
   document.writeln("<table>");
   document.write(
@@ -38,7 +36,7 @@ function view(){
   document.writeln("</table>");
 }
 
-function searchName(pattern){
+function search(pattern, item){
   let d = document.getElementsByTagName("tr");
   if(pattern == ""){
     for(let i = 0; i < 1124; i++){
@@ -47,7 +45,7 @@ function searchName(pattern){
   }else{
     let re = new RegExp(pattern);
     for(let i = 0; i < 1124; i++){
-      if(re.exec(data[i].name)){
+      if(re.exec(data[i][item])){
         d[i+1].removeAttribute('style');
       }else{
         d[i+1].setAttribute('style', 'display: none;');
@@ -57,6 +55,3 @@ function searchName(pattern){
 }
 var data = readJSON();
 view();
-
-
-

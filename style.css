@@ -12,6 +12,7 @@ td {
   text-align: center;
 }
 .bt {
+  float: left;
   height: 50px;
-  width: 100px;
+  width: 200px;
 }

@@ -1,0 +1,17 @@
+a {
+  color: red;
+  margin: 2px 2px;
+}
+table {
+  display: inline-block;
+  border-collapse: collapse;
+}
+td {
+	border: solid 1px;
+  padding: 0.5em;
+  text-align: center;
+}
+.bt {
+  height: 50px;
+  width: 100px;
+}

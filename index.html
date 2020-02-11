@@ -3,26 +3,40 @@
   <head>
     <meta charset="utf-8">
 
-    <title>syllabus</title>
+    <title>電通大シラバス検索</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <div class="win">
-      <div class="bt">
-        曜日検索
-        <input type="text" id="sn" onInput="search(this.value, 'time')"></input>
+      <div class="nameSearch">
+        <strong>科目名</strong>
+        <input type="text" onInput="search(this.value, 'name')"></input>
       </div>
-      <div class="bt">
-        科目名検索
-        <input type="text" id="sn" onInput="search(this.value, 'name')"></input>
-      </div>
-      <div class="bt">
-        教員検索
-        <input type="text" id="sn" onInput="search(this.value, 'teacher')"></input>
+      <div class="nameSearch">
+        教員名
+        <input type="text"  onInput="search(this.value, 'teacher')"></input>
       </div>
     </div>
-    <p>検索：部分一致、単独条件</p>
-    <p>2019年度(今年度)版のシラバス</p>
+    <div class="win">
+      <div class="nameSearch">
+        学年
+        (例: 1)
+        <input type="text"  onInput="search(this.value, 'grade')"></input>
+      </div>
+      <div class="nameSearch">
+        学科
+        (例: Ⅰ)
+        <input type="text"  onInput="search(this.value, 'depertment')"></input>
+      </div>
+      <div class="nameSearch">
+        曜日・時間
+        (例: 水1)
+        <input type="text" onInput="search(this.value, 'time')"></input>
+      </div>
+    </div>
+
+    <p>検索機能：単独キーワード、入力ごとに更新</p>
+    <p>リンク先は、2019年度(今年度)版のシラバスです</p>
 
     <script src="view.js"></script>
   </body>

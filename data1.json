@@ -14597,5 +14597,31 @@
 		"grade": "4",
 		"depertment": "Ⅱ類",
 		"category": "専門科目"
+	},
+	{
+		"num": "1124",
+		"semester": "後学期",
+		"op": "後学期",
+		"time": "他",
+		"code": "21224255",
+		"name": "輪講B（Ⅲ類）",
+		"teacher": "上野　芳康",
+		"url": "31/31_21324255.html",
+		"grade": "4",
+		"depertment": "Ⅲ類",
+		"category": "専門科目"
+	},
+	{
+		"num": "1125",
+		"semester": "後学期",
+		"op": "後学期",
+		"time": "他",
+		"code": "21224255",
+		"name": "卒業研究B（Ⅲ類）",
+		"teacher": "上野　芳康",
+		"url": "31/31_21324256.html",
+		"grade": "4",
+		"depertment": "Ⅲ類",
+		"category": "専門科目"
 	}
 ]

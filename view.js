@@ -20,12 +20,15 @@ for(let i = 0; i < data.length; i++){
 }
 
 function view(){
-  document.writeln("<table>");
+  document.write("<table>\n");
+  document.write("<thead>\n");
   document.write(
     "<tr>\n" + "  <td>No.</td>\n" + " <td>学期</td>\n" + "  <td>学年</td>\n" + "  <td>類</td>\n"
     + " <td>曜日・時間</td>\n" + "  <td>時間割コード</td>\n" + "  <td>分類</td>\n"
     + " <td>科目名</td>\n" + "  <td>担当教員</td>\n" + "</tr>\n"
   );
+  document.write("</thead>\n");
+  document.write("<tbody>\n");
   for(let i = 0; i<data.length; i++){
     //データ正規化で対応すべき
     let depertment = data[i].depertment;
@@ -62,6 +65,7 @@ function view(){
       + "</tr>"
     );
   }
+  document.write("</tbody>\n");
   document.writeln("</table>");
 }
 

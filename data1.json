@@ -9,7 +9,7 @@
 		"teacher": "松木・皆川",
 		"url": "31/31_21018131.html",
 		"grade": "1",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -22,7 +22,7 @@
 		"teacher": "皆川・松木",
 		"url": "31/31_21018132.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -138,8 +138,8 @@
 		"name": "独語第一",
 		"teacher": "伊藤　みどり",
 		"url": "31/31_21012161.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -151,8 +151,8 @@
 		"name": "独語第一",
 		"teacher": "渡辺　和典",
 		"url": "31/31_21012162.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -164,8 +164,8 @@
 		"name": "独語第一",
 		"teacher": "白木　和美",
 		"url": "31/31_21012163.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -177,8 +177,8 @@
 		"name": "仏語第一",
 		"teacher": "坂井　由加里",
 		"url": "31/31_21012167.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -190,8 +190,8 @@
 		"name": "露語第一",
 		"teacher": "金沢　友緒",
 		"url": "31/31_21012169.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -203,8 +203,8 @@
 		"name": "中国語第一",
 		"teacher": "中村　孝子",
 		"url": "31/31_21012171.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -216,8 +216,8 @@
 		"name": "中国語第一",
 		"teacher": "鷲巣　益美",
 		"url": "31/31_21012172.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -229,8 +229,8 @@
 		"name": "中国語第一",
 		"teacher": "小幡　敏行",
 		"url": "31/31_21012173.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -242,8 +242,8 @@
 		"name": "中国語第一",
 		"teacher": "孫　月鶯",
 		"url": "31/31_21012174.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -255,8 +255,8 @@
 		"name": "韓国朝鮮語第一",
 		"teacher": "黒島　規史",
 		"url": "31/31_21012179.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -268,8 +268,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "西　康晴",
 		"url": "31/31_21018119.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -281,8 +281,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "須藤　克弥",
 		"url": "31/31_21018120.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -294,8 +294,8 @@
 		"name": "化学概論第一",
 		"teacher": "山北　佳宏",
 		"url": "31/31_21019153.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -307,8 +307,8 @@
 		"name": "化学概論第一",
 		"teacher": "吉永　裕介",
 		"url": "31/31_21019154.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -320,8 +320,8 @@
 		"name": "化学概論第一",
 		"teacher": "小林　義男",
 		"url": "31/31_21019155.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -515,8 +515,8 @@
 		"name": "独語第一",
 		"teacher": "伊藤　みどり",
 		"url": "31/31_21012164.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -528,8 +528,8 @@
 		"name": "独語第一",
 		"teacher": "渡辺　和典",
 		"url": "31/31_21012165.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -541,8 +541,8 @@
 		"name": "独語第一",
 		"teacher": "白木　和美",
 		"url": "31/31_21012166.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -554,8 +554,8 @@
 		"name": "仏語第一",
 		"teacher": "坂井　由加里",
 		"url": "31/31_21012168.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -567,8 +567,8 @@
 		"name": "露語第一",
 		"teacher": "金沢　友緒",
 		"url": "31/31_21012170.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -580,8 +580,8 @@
 		"name": "中国語第一",
 		"teacher": "中村　孝子",
 		"url": "31/31_21012175.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -593,8 +593,8 @@
 		"name": "中国語第一",
 		"teacher": "鷲巣　益美",
 		"url": "31/31_21012176.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -606,8 +606,8 @@
 		"name": "中国語第一",
 		"teacher": "小幡　敏行",
 		"url": "31/31_21012177.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -619,8 +619,8 @@
 		"name": "中国語第一",
 		"teacher": "孫　月鶯",
 		"url": "31/31_21012178.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -632,8 +632,8 @@
 		"name": "韓国朝鮮語第一",
 		"teacher": "黒島　規史",
 		"url": "31/31_21012180.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -840,8 +840,8 @@
 		"name": "基礎科学実験A",
 		"teacher": "奥野・小野・饗庭・西岡・尚・○吉村・*高田",
 		"url": "31/31_21018102.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -853,8 +853,8 @@
 		"name": "基礎科学実験B",
 		"teacher": "石田　尚行",
 		"url": "31/31_21018105.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -879,8 +879,8 @@
 		"name": "独語第一（再履）",
 		"teacher": "宇田川　尚人",
 		"url": "31/31_21012195.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -892,8 +892,8 @@
 		"name": "仏語第一（再履）",
 		"teacher": "坂井　由加里",
 		"url": "31/31_21012196.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -905,8 +905,8 @@
 		"name": "露語第一（再履）",
 		"teacher": "金沢　友緒",
 		"url": "31/31_21012197.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -918,8 +918,8 @@
 		"name": "中国語第一（再履）",
 		"teacher": "鷲巣　益美",
 		"url": "31/31_21012198.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -931,8 +931,8 @@
 		"name": "韓国朝鮮語第一（再履）",
 		"teacher": "姜　勝薫",
 		"url": "31/31_21012199.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -944,8 +944,8 @@
 		"name": "英語演習",
 		"teacher": "奥　浩昭",
 		"url": "31/31_21013131.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -957,8 +957,8 @@
 		"name": "英語演習",
 		"teacher": "Damian Lucantonio",
 		"url": "31/31_21013132.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -970,8 +970,8 @@
 		"name": "英語演習",
 		"teacher": "Eric Hauser",
 		"url": "31/31_21013133.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -983,8 +983,8 @@
 		"name": "英語演習",
 		"teacher": "大石　由紀子",
 		"url": "31/31_21013134.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -996,8 +996,8 @@
 		"name": "独語演習",
 		"teacher": "中橋　誠",
 		"url": "31/31_21013146.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1009,8 +1009,8 @@
 		"name": "露語演習",
 		"teacher": "山田　徹也",
 		"url": "31/31_21013152.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1022,8 +1022,8 @@
 		"name": "中国語演習",
 		"teacher": "范　建明",
 		"url": "31/31_21013154.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1035,8 +1035,8 @@
 		"name": "中国語演習",
 		"teacher": "孫　月鶯",
 		"url": "31/31_21013155.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1048,8 +1048,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "寺田　実・村尾 裕一",
 		"url": "31/31_21018115.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -1061,8 +1061,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "田中　基康・*竹内　純人",
 		"url": "31/31_21018116.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -1074,8 +1074,8 @@
 		"name": "微分積分学第一",
 		"teacher": "田原　康之",
 		"url": "31/31_21019103.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -1087,8 +1087,8 @@
 		"name": "微分積分学第一",
 		"teacher": "水柿　義直",
 		"url": "31/31_21019104.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -1191,8 +1191,8 @@
 		"name": "エートス論",
 		"teacher": "本郷　朝香",
 		"url": "31/31_21016101.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1204,8 +1204,8 @@
 		"name": "外国語とその運用A 【独語】",
 		"teacher": "中橋　誠",
 		"url": "31/31_21016116.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1217,8 +1217,8 @@
 		"name": "外国語とその運用A 【仏語】",
 		"teacher": "平野　奈津恵",
 		"url": "31/31_21016117.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1230,8 +1230,8 @@
 		"name": "外国語とその運用A 【露語】",
 		"teacher": "山田　徹也",
 		"url": "31/31_21016118.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1243,8 +1243,8 @@
 		"name": "外国語とその運用A 【中国語】",
 		"teacher": "范　建明",
 		"url": "31/31_21016119.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1256,8 +1256,8 @@
 		"name": "外国語とその運用A 【韓国朝鮮語】",
 		"teacher": "姜　勝薫",
 		"url": "31/31_21016120.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1269,8 +1269,8 @@
 		"name": "外国語との対比による日本語表現",
 		"teacher": "宇田川　尚人",
 		"url": "31/31_21016123.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1282,8 +1282,8 @@
 		"name": "日本語とコミュニケーションA",
 		"teacher": "笠原　ゆう子",
 		"url": "31/31_21016124.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1295,8 +1295,8 @@
 		"name": "身体運動のバイオメカニクス",
 		"teacher": "岡田　英孝",
 		"url": "31/31_21016129.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1308,8 +1308,8 @@
 		"name": "Advanced Communication Engineering and Informatics Ⅱ（Optical Communication Engineering）（学域）",
 		"teacher": "來住　直人",
 		"url": "31/31_21017112.html",
-		"grade": "3/4",
-		"depertment": "Ⅰ類/Ⅱ類",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類",
 		"category": "専門科目"
 	},
 	{
@@ -1321,8 +1321,8 @@
 		"name": "教職論A",
 		"teacher": "佐々木　啓子",
 		"url": "31/31_21025101.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -1373,8 +1373,8 @@
 		"name": "健康・体力つくり実習",
 		"teacher": "大河原・○竹内・○八百・○青木",
 		"url": "31/31_21014301.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1386,8 +1386,8 @@
 		"name": "健康・体力つくり実習",
 		"teacher": "大河原・○竹内・○八百・○青木",
 		"url": "31/31_21014305.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1399,8 +1399,8 @@
 		"name": "キャリアデザイン",
 		"teacher": "松木　利憲",
 		"url": "31/31_21018231.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -1412,8 +1412,8 @@
 		"name": "知的財産権",
 		"teacher": "本間・重森",
 		"url": "31/31_21018233.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -1581,8 +1581,8 @@
 		"name": "独語第二",
 		"teacher": "伊藤　みどり",
 		"url": "31/31_21012261.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1594,8 +1594,8 @@
 		"name": "独語第二",
 		"teacher": "渡辺　和典",
 		"url": "31/31_21012262.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1607,8 +1607,8 @@
 		"name": "独語第二",
 		"teacher": "白木　和美",
 		"url": "31/31_21012263.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1620,8 +1620,8 @@
 		"name": "仏語第二",
 		"teacher": "坂井　由加里",
 		"url": "31/31_21012267.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1633,8 +1633,8 @@
 		"name": "露語第二",
 		"teacher": "金沢　友緒",
 		"url": "31/31_21012269.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1646,8 +1646,8 @@
 		"name": "中国語第二",
 		"teacher": "中村　孝子",
 		"url": "31/31_21012271.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1659,8 +1659,8 @@
 		"name": "中国語第二",
 		"teacher": "鷲巣　益美",
 		"url": "31/31_21012272.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1672,8 +1672,8 @@
 		"name": "中国語第二",
 		"teacher": "小幡　敏行",
 		"url": "31/31_21012273.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1685,8 +1685,8 @@
 		"name": "中国語第二",
 		"teacher": "孫　月鶯",
 		"url": "31/31_21012274.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1698,8 +1698,8 @@
 		"name": "韓国朝鮮語第二",
 		"teacher": "黒島　規史",
 		"url": "31/31_21012279.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1711,8 +1711,8 @@
 		"name": "Topics in Informatics Ⅰ（Evolutionary Computation）（学域）",
 		"teacher": "佐藤　寛之",
 		"url": "31/31_21017209.html",
-		"grade": "3/4",
-		"depertment": "Ⅰ類/Ⅱ類",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類",
 		"category": "専門科目"
 	},
 	{
@@ -1724,8 +1724,8 @@
 		"name": "線形代数学第二",
 		"teacher": "大野　真裕",
 		"url": "31/31_21019218.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -1737,8 +1737,8 @@
 		"name": "解析学",
 		"teacher": "石田　晴久",
 		"url": "31/31_21019228.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -1750,8 +1750,8 @@
 		"name": "解析学",
 		"teacher": "緒方　秀教",
 		"url": "31/31_21019229.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -1763,8 +1763,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "橋山　智訓",
 		"url": "31/31_21019271.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -1776,8 +1776,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "藤田　秀之",
 		"url": "31/31_21019272.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -1984,8 +1984,8 @@
 		"name": "独語第二",
 		"teacher": "伊藤　みどり",
 		"url": "31/31_21012264.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -1997,8 +1997,8 @@
 		"name": "独語第二",
 		"teacher": "渡辺　和典",
 		"url": "31/31_21012265.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2010,8 +2010,8 @@
 		"name": "独語第二",
 		"teacher": "白木　和美",
 		"url": "31/31_21012266.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2023,8 +2023,8 @@
 		"name": "仏語第二",
 		"teacher": "坂井　由加里",
 		"url": "31/31_21012268.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2036,8 +2036,8 @@
 		"name": "露語第二",
 		"teacher": "金沢　友緒",
 		"url": "31/31_21012270.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2049,8 +2049,8 @@
 		"name": "中国語第二",
 		"teacher": "中村　孝子",
 		"url": "31/31_21012275.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2062,8 +2062,8 @@
 		"name": "中国語第二",
 		"teacher": "鷲巣　益美",
 		"url": "31/31_21012276.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2075,8 +2075,8 @@
 		"name": "中国語第二",
 		"teacher": "小幡　敏行",
 		"url": "31/31_21012277.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2088,8 +2088,8 @@
 		"name": "中国語第二",
 		"teacher": "孫　月鶯",
 		"url": "31/31_21012278.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2101,8 +2101,8 @@
 		"name": "韓国朝鮮語第二",
 		"teacher": "黒島　規史",
 		"url": "31/31_21012280.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2114,8 +2114,8 @@
 		"name": "健康論",
 		"teacher": "大河原・未定・鶴ヶ野・○竹内・○八百・○青木",
 		"url": "31/31_21014201.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2322,8 +2322,8 @@
 		"name": "基礎科学実験A",
 		"teacher": "中村（仁）・板倉・横川・饗庭・○吉村・○矢野・*高田",
 		"url": "31/31_21018201.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -2335,8 +2335,8 @@
 		"name": "基礎科学実験B",
 		"teacher": "加固　昌寛",
 		"url": "31/31_21018204.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -2348,8 +2348,8 @@
 		"name": "独語第二（再履）",
 		"teacher": "宇田川　尚人",
 		"url": "31/31_21012295.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2361,8 +2361,8 @@
 		"name": "仏語第二（再履）",
 		"teacher": "坂井　由加里",
 		"url": "31/31_21012296.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2374,8 +2374,8 @@
 		"name": "露語第二（再履）",
 		"teacher": "金沢　友緒",
 		"url": "31/31_21012297.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2387,8 +2387,8 @@
 		"name": "中国語第二（再履）",
 		"teacher": "鷲巣　益美",
 		"url": "31/31_21012298.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2400,8 +2400,8 @@
 		"name": "韓国朝鮮語第二（再履）",
 		"teacher": "姜　勝薫",
 		"url": "31/31_21012299.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2413,8 +2413,8 @@
 		"name": "英語演習",
 		"teacher": "奥　浩昭",
 		"url": "31/31_21013231.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2426,8 +2426,8 @@
 		"name": "英語演習",
 		"teacher": "Damian Lucantonio",
 		"url": "31/31_21013232.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2439,8 +2439,8 @@
 		"name": "独語運用演習",
 		"teacher": "中橋　誠",
 		"url": "31/31_21013246.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2452,8 +2452,8 @@
 		"name": "露語運用演習",
 		"teacher": "山田　徹也",
 		"url": "31/31_21013252.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2465,8 +2465,8 @@
 		"name": "中国語運用演習",
 		"teacher": "范　建明",
 		"url": "31/31_21013254.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2478,8 +2478,8 @@
 		"name": "中国語運用演習",
 		"teacher": "孫　月鶯",
 		"url": "31/31_21013255.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2491,8 +2491,8 @@
 		"name": "健康論",
 		"teacher": "大河原・未定・鶴ヶ野・○竹内・○八百・○青木",
 		"url": "31/31_21014205.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2504,8 +2504,8 @@
 		"name": "微分積分学第二",
 		"teacher": "石田　晴久",
 		"url": "31/31_21019203.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -2517,8 +2517,8 @@
 		"name": "線形代数学第二",
 		"teacher": "山田　裕一",
 		"url": "31/31_21019216.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -2530,8 +2530,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "工藤　俊亮",
 		"url": "31/31_21019267.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -2543,8 +2543,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "柳井　啓司・*竹内　純人",
 		"url": "31/31_21019268.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -2660,8 +2660,8 @@
 		"name": "倫理思想論",
 		"teacher": "本郷　朝香",
 		"url": "31/31_21016201.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2673,8 +2673,8 @@
 		"name": "心の科学",
 		"teacher": "久野　雅樹",
 		"url": "31/31_21016205.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2686,8 +2686,8 @@
 		"name": "外国語とその運用B 【独語】",
 		"teacher": "中橋　誠",
 		"url": "31/31_21016216.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2699,8 +2699,8 @@
 		"name": "外国語とその運用B 【仏語】",
 		"teacher": "平野　奈津恵",
 		"url": "31/31_21016217.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2712,8 +2712,8 @@
 		"name": "外国語とその運用B 【露語】",
 		"teacher": "山田　徹也",
 		"url": "31/31_21016218.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2725,8 +2725,8 @@
 		"name": "外国語とその運用B 【中国語】",
 		"teacher": "范　建明",
 		"url": "31/31_21016219.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2738,8 +2738,8 @@
 		"name": "外国語とその運用B 【韓国朝鮮語】",
 		"teacher": "姜　勝薫",
 		"url": "31/31_21016220.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2751,8 +2751,8 @@
 		"name": "国際文化論",
 		"teacher": "宇田川　尚人",
 		"url": "31/31_21016222.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2764,8 +2764,8 @@
 		"name": "日本語とコミュニケーションB",
 		"teacher": "志賀　幹郎",
 		"url": "31/31_21016224.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2777,7 +2777,7 @@
 		"name": "地学（Ⅱ類・Ｍ）",
 		"teacher": "○上野・○白井",
 		"url": "31/31_21025201.html",
-		"grade": "1/2/3/4",
+		"grade": "1,2,3,4",
 		"depertment": "Ⅱ類",
 		"category": "教職科目"
 	},
@@ -2790,7 +2790,7 @@
 		"name": "地学（Ⅲ類・Ｓ）",
 		"teacher": "○白井・○上野",
 		"url": "31/31_21025202.html",
-		"grade": "1/2/3/4",
+		"grade": "1,2,3,4",
 		"depertment": "Ⅲ類",
 		"category": "教職科目"
 	},
@@ -2803,8 +2803,8 @@
 		"name": "教育制度論A",
 		"teacher": "星野　敦子",
 		"url": "31/31_21025209.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -2816,8 +2816,8 @@
 		"name": "理科教育法Ⅳ",
 		"teacher": "鈴木　勝・○浅羽　宏",
 		"url": "31/31_21025213.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -2829,8 +2829,8 @@
 		"name": "数学科教育法III",
 		"teacher": "羽住　邦男",
 		"url": "31/31_21025214.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -2946,8 +2946,8 @@
 		"name": "日本語第一（１年）（月２・木２）",
 		"teacher": "笠原　ゆう子・未定",
 		"url": "31/31_21013181.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2959,8 +2959,8 @@
 		"name": "日本語第一（１年）（月３・木２）",
 		"teacher": "笠原　ゆう子・未定",
 		"url": "31/31_21013182.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2972,8 +2972,8 @@
 		"name": "日本語第二（１年）（月２・木２）",
 		"teacher": "内藤・笠原",
 		"url": "31/31_21013281.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2985,8 +2985,8 @@
 		"name": "日本語第二（１年）（月３・木２）",
 		"teacher": "内藤・笠原",
 		"url": "31/31_21013282.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -2998,8 +2998,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "奥　浩昭",
 		"url": "31/31_21012131.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3011,8 +3011,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Arnold, Lee",
 		"url": "31/31_21012132.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3024,8 +3024,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "ASCOUGH 朋子",
 		"url": "31/31_21012133.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3037,8 +3037,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "MOREAU ROBERT",
 		"url": "31/31_21012134.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3050,8 +3050,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Derr, Jonathan",
 		"url": "31/31_21012135.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3063,8 +3063,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "HOWNG Kung-Cheen",
 		"url": "31/31_21012136.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3076,8 +3076,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "大石　由紀子",
 		"url": "31/31_21013101.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3089,8 +3089,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21013102.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3102,8 +3102,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "Eric Hauser",
 		"url": "31/31_21013103.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3115,8 +3115,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "本多　幸七郎",
 		"url": "31/31_21013104.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3128,8 +3128,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21013105.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3141,8 +3141,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "岩崎　峻一",
 		"url": "31/31_21013106.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3154,8 +3154,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "ｽﾃｲｰﾌﾞﾝ ﾀﾛｳ ｽｽﾞｷ",
 		"url": "31/31_21013107.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3167,8 +3167,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "Gibran　Garcia",
 		"url": "31/31_21013108.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3180,8 +3180,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "Stella Yamazaki",
 		"url": "31/31_21013125.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3193,8 +3193,8 @@
 		"name": "UEC Academic Skills Ⅰ (Computer Literacy) （言語文化）",
 		"teacher": "Choo　Cheow　Keong",
 		"url": "31/31_21017101.html",
-		"grade": "1/2",
-		"depertment": "情報理工学域",
+		"grade": "1,2",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3206,8 +3206,8 @@
 		"name": "UEC Academic Skills Ⅰ (Computer Literacy) （上級科目）",
 		"teacher": "Choo　Cheow　Keong",
 		"url": "31/31_21017105.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3219,8 +3219,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "久野　靖",
 		"url": "31/31_21018111.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -3232,8 +3232,8 @@
 		"name": "微分積分学第一",
 		"teacher": "林　誠",
 		"url": "31/31_21019107.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -3245,8 +3245,8 @@
 		"name": "物理学概論第一",
 		"teacher": "野村　英之",
 		"url": "31/31_21019144.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -3258,8 +3258,8 @@
 		"name": "基礎物理学演習第一",
 		"teacher": "Hans-Georg Matuttis",
 		"url": "31/31_21024103.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -3349,8 +3349,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Damian Lucantonio",
 		"url": "31/31_21012137.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3362,8 +3362,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Atsuko M Jeffreys",
 		"url": "31/31_21012138.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3375,8 +3375,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Eric Hauser",
 		"url": "31/31_21012139.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3388,8 +3388,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Derr, Jonathan",
 		"url": "31/31_21012140.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3401,8 +3401,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "MOREAU ROBERT",
 		"url": "31/31_21012141.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3414,8 +3414,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "HOWNG Kung-Cheen",
 		"url": "31/31_21012142.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3427,8 +3427,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "Gibran　Garcia",
 		"url": "31/31_21013109.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3440,8 +3440,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21013110.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3453,8 +3453,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "本多　幸七郎",
 		"url": "31/31_21013111.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3466,8 +3466,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21013112.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3479,8 +3479,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "Arnold, Lee",
 		"url": "31/31_21013113.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3492,8 +3492,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "ｽﾃｲｰﾌﾞﾝ ﾀﾛｳ ｽｽﾞｷ",
 		"url": "31/31_21013114.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3505,8 +3505,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "ASCOUGH 朋子",
 		"url": "31/31_21013115.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3518,8 +3518,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "岩崎　峻一",
 		"url": "31/31_21013116.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3531,8 +3531,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "Scott Mclellan",
 		"url": "31/31_21013126.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3544,8 +3544,8 @@
 		"name": "生涯スポーツ演習Ａ（Ⅰ類）",
 		"teacher": "○田中（茂）・○泉水・○宮崎・○大辻・○八幡",
 		"url": "31/31_21014111.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3558,7 +3558,7 @@
 		"teacher": "Choo　Cheow　Keong",
 		"url": "31/31_21017102.html",
 		"grade": "2",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3570,8 +3570,8 @@
 		"name": "UEC Academic Skills II (Information Literacy and Research) （上級科目）",
 		"teacher": "Choo　Cheow　Keong",
 		"url": "31/31_21017106.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3583,8 +3583,8 @@
 		"name": "微分積分学第一",
 		"teacher": "林　誠",
 		"url": "31/31_21019108.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -3596,8 +3596,8 @@
 		"name": "微分積分学第一",
 		"teacher": "久藤　衡介",
 		"url": "31/31_21019109.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -3609,8 +3609,8 @@
 		"name": "物理学概論第一",
 		"teacher": "松浦　基晴",
 		"url": "31/31_21019139.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -3622,8 +3622,8 @@
 		"name": "物理学概論第一",
 		"teacher": "大淵　泰司",
 		"url": "31/31_21019146.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -3635,8 +3635,8 @@
 		"name": "物理学概論第一",
 		"teacher": "小池　卓二",
 		"url": "31/31_21019147.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -3648,8 +3648,8 @@
 		"name": "物理学概論第一",
 		"teacher": "田中　一男",
 		"url": "31/31_21019148.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -3661,8 +3661,8 @@
 		"name": "化学概論第一",
 		"teacher": "平野　誉",
 		"url": "31/31_21019152.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -3674,8 +3674,8 @@
 		"name": "化学概論第一",
 		"teacher": "山登　正文",
 		"url": "31/31_21019156.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -3804,8 +3804,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Damian Lucantonio",
 		"url": "31/31_21012143.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3817,8 +3817,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Joseph Robert Tabolt",
 		"url": "31/31_21012144.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3830,8 +3830,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "HOWNG Kung-Cheen",
 		"url": "31/31_21012145.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3843,8 +3843,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Neil G. Roy",
 		"url": "31/31_21012146.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3856,8 +3856,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "MOREAU ROBERT",
 		"url": "31/31_21012147.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3869,8 +3869,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Derr, Jonathan",
 		"url": "31/31_21012148.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3882,8 +3882,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "Eric Hauser",
 		"url": "31/31_21013117.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3895,8 +3895,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "Arnold, Lee",
 		"url": "31/31_21013118.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3908,8 +3908,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "大石　由紀子",
 		"url": "31/31_21013119.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3921,8 +3921,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "本多　幸七郎",
 		"url": "31/31_21013120.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3934,8 +3934,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "ｽﾃｲｰﾌﾞﾝ ﾀﾛｳ ｽｽﾞｷ",
 		"url": "31/31_21013121.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3947,8 +3947,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21013122.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3960,8 +3960,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21013123.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3973,8 +3973,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "ASCOUGH 朋子",
 		"url": "31/31_21013124.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3986,8 +3986,8 @@
 		"name": "Academic English for the Second Year Ⅰ",
 		"teacher": "Scott Mclellan",
 		"url": "31/31_21013127.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -3999,8 +3999,8 @@
 		"name": "生涯スポーツ演習Ａ（Ⅱ類）",
 		"teacher": "○田中（茂）・○泉水・○宮崎・○大辻・○八幡",
 		"url": "31/31_21014112.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4012,8 +4012,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "大須賀　昭彦",
 		"url": "31/31_21018112.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -4025,8 +4025,8 @@
 		"name": "微分積分学第一",
 		"teacher": "山口　耕平",
 		"url": "31/31_21019101.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4038,8 +4038,8 @@
 		"name": "微分積分学第一",
 		"teacher": "石田　晴久",
 		"url": "31/31_21019105.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4051,8 +4051,8 @@
 		"name": "微分積分学第一",
 		"teacher": "久藤　衡介",
 		"url": "31/31_21019111.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4064,8 +4064,8 @@
 		"name": "線形代数学第一",
 		"teacher": "大野　真裕",
 		"url": "31/31_21019122.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4077,8 +4077,8 @@
 		"name": "物理学概論第一",
 		"teacher": "横井　浩史",
 		"url": "31/31_21019140.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4090,8 +4090,8 @@
 		"name": "物理学概論第一",
 		"teacher": "伏屋　雄紀",
 		"url": "31/31_21019142.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4103,8 +4103,8 @@
 		"name": "物理学概論第一",
 		"teacher": "來住　直人",
 		"url": "31/31_21019145.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4246,8 +4246,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Damian Lucantonio",
 		"url": "31/31_21012149.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4259,8 +4259,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "奥　浩昭",
 		"url": "31/31_21012150.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4272,8 +4272,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Atsuko M Jeffreys",
 		"url": "31/31_21012151.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4285,8 +4285,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Joseph Robert Tabolt",
 		"url": "31/31_21012152.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4298,8 +4298,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Gibran　Garcia",
 		"url": "31/31_21012153.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4311,8 +4311,8 @@
 		"name": "Academic Spoken English Ⅰ",
 		"teacher": "Neil G. Roy",
 		"url": "31/31_21012154.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4324,8 +4324,8 @@
 		"name": "生涯スポーツ演習Ａ（Ⅲ類）",
 		"teacher": "○田中（茂）・○泉水・○宮崎・○大辻・○八幡",
 		"url": "31/31_21014113.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4337,8 +4337,8 @@
 		"name": "物理学概論第一",
 		"teacher": "村中　隆弘",
 		"url": "31/31_21019137.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4350,8 +4350,8 @@
 		"name": "物理学概論第一",
 		"teacher": "守　裕也",
 		"url": "31/31_21019138.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4363,8 +4363,8 @@
 		"name": "物理学概論第一",
 		"teacher": "田中　久陽",
 		"url": "31/31_21019141.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4376,8 +4376,8 @@
 		"name": "物理学概論第一",
 		"teacher": "阿部　浩二",
 		"url": "31/31_21019143.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4389,8 +4389,8 @@
 		"name": "化学概論第一",
 		"teacher": "牧　昌次郎",
 		"url": "31/31_21019158.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4402,8 +4402,8 @@
 		"name": "化学概論第一",
 		"teacher": "安井　正憲",
 		"url": "31/31_21019159.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4415,8 +4415,8 @@
 		"name": "化学概論第一",
 		"teacher": "樫森　与志喜",
 		"url": "31/31_21019160.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4428,8 +4428,8 @@
 		"name": "化学概論第一",
 		"teacher": "桑原　大介",
 		"url": "31/31_21019162.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4558,8 +4558,8 @@
 		"name": "Preparation for Overseas Study",
 		"teacher": "上原　寿和子",
 		"url": "31/31_21016115.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4571,8 +4571,8 @@
 		"name": "情報と職業",
 		"teacher": "赤澤　紀子",
 		"url": "31/31_21016127.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4584,8 +4584,8 @@
 		"name": "日本の科学と技術A",
 		"teacher": "中井　日佐司・Choo Cheow Keong",
 		"url": "31/31_21016128.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4597,8 +4597,8 @@
 		"name": "エイジングの健康科学",
 		"teacher": "安藤　創一",
 		"url": "31/31_21016131.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4610,8 +4610,8 @@
 		"name": "日常生活の対人関係",
 		"teacher": "川口　容子",
 		"url": "31/31_21016132.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4623,8 +4623,8 @@
 		"name": "教育心理学",
 		"teacher": "青山　征彦",
 		"url": "31/31_21025102.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -4662,8 +4662,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "奥　浩昭",
 		"url": "31/31_21012231.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4675,8 +4675,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Arnold, Lee",
 		"url": "31/31_21012232.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4688,8 +4688,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "ASCOUGH 朋子",
 		"url": "31/31_21012233.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4701,8 +4701,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "MOREAU ROBERT",
 		"url": "31/31_21012234.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4714,8 +4714,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Derr, Jonathan",
 		"url": "31/31_21012235.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4727,8 +4727,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "鄭　翠萍",
 		"url": "31/31_21013201.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4740,8 +4740,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21013202.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4753,8 +4753,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "Scott Mclellan",
 		"url": "31/31_21013203.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4766,8 +4766,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "本多　幸七郎",
 		"url": "31/31_21013204.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4779,8 +4779,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21013205.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4792,8 +4792,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "岩崎　峻一",
 		"url": "31/31_21013206.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4805,8 +4805,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "ｽﾃｲｰﾌﾞﾝ ﾀﾛｳ ｽｽﾞｷ",
 		"url": "31/31_21013207.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4818,8 +4818,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "Gibran　Garcia",
 		"url": "31/31_21013208.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4831,8 +4831,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "Stella Yamazaki",
 		"url": "31/31_21013225.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4844,8 +4844,8 @@
 		"name": "UEC Academic Skills Ⅰ (Computer Literacy) （言語文化）",
 		"teacher": "Choo　Cheow　Keong",
 		"url": "31/31_21017201.html",
-		"grade": "1/2",
-		"depertment": "情報理工学域",
+		"grade": "1,2",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4857,8 +4857,8 @@
 		"name": "UEC Academic Skills Ⅰ (Computer Literacy) （上級科目）",
 		"teacher": "Choo　Cheow　Keong",
 		"url": "31/31_21017205.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -4870,8 +4870,8 @@
 		"name": "微分積分学第二",
 		"teacher": "林　誠",
 		"url": "31/31_21019212.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -4883,8 +4883,8 @@
 		"name": "基礎物理学演習第二",
 		"teacher": "Hans-Georg Matuttis",
 		"url": "31/31_21024203.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5052,8 +5052,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Damian Lucantonio",
 		"url": "31/31_21012237.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5065,8 +5065,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Atsuko M Jeffreys",
 		"url": "31/31_21012238.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5078,8 +5078,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Eric Hauser",
 		"url": "31/31_21012239.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5091,8 +5091,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Derr, Jonathan",
 		"url": "31/31_21012240.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5104,8 +5104,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "MOREAU ROBERT",
 		"url": "31/31_21012241.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5117,8 +5117,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "Gibran　Garcia",
 		"url": "31/31_21013209.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5130,8 +5130,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21013210.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5143,8 +5143,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "本多　幸七郎",
 		"url": "31/31_21013211.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5156,8 +5156,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21013212.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5169,8 +5169,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "Arnold, Lee",
 		"url": "31/31_21013213.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5182,8 +5182,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "ｽﾃｲｰﾌﾞﾝ ﾀﾛｳ ｽｽﾞｷ",
 		"url": "31/31_21013214.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5195,8 +5195,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "ASCOUGH 朋子",
 		"url": "31/31_21013215.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5208,8 +5208,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "岩崎　峻一",
 		"url": "31/31_21013216.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5221,8 +5221,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "Scott Mclellan",
 		"url": "31/31_21013226.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5234,8 +5234,8 @@
 		"name": "生涯スポーツ演習Ｂ（Ⅰ類）",
 		"teacher": "○田中（茂）・○泉水・○宮崎・○大辻・○八幡",
 		"url": "31/31_21014211.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5248,7 +5248,7 @@
 		"teacher": "Choo　Cheow　Keong",
 		"url": "31/31_21017202.html",
 		"grade": "2",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5260,8 +5260,8 @@
 		"name": "UEC Academic Skills II (Information Literacy and Research) （上級科目）",
 		"teacher": "Choo　Cheow　Keong",
 		"url": "31/31_21017206.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5273,8 +5273,8 @@
 		"name": "微分積分学第二",
 		"teacher": "林　誠",
 		"url": "31/31_21019207.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5286,8 +5286,8 @@
 		"name": "微分積分学第二",
 		"teacher": "久藤　衡介",
 		"url": "31/31_21019209.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5299,8 +5299,8 @@
 		"name": "線形代数学第二",
 		"teacher": "榎本　直也",
 		"url": "31/31_21019220.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5312,8 +5312,8 @@
 		"name": "物理学概論第二",
 		"teacher": "岸本　哲夫",
 		"url": "31/31_21019251.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5325,8 +5325,8 @@
 		"name": "物理学概論第二",
 		"teacher": "大川　富雄",
 		"url": "31/31_21019254.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5338,8 +5338,8 @@
 		"name": "物理学概論第二",
 		"teacher": "阪口　豊",
 		"url": "31/31_21019258.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5351,8 +5351,8 @@
 		"name": "物理学概論第二",
 		"teacher": "石橋　功至",
 		"url": "31/31_21019259.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5364,8 +5364,8 @@
 		"name": "物理学概論第二",
 		"teacher": "美濃島　薫",
 		"url": "31/31_21019260.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5377,8 +5377,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "小宮　常康",
 		"url": "31/31_21019266.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5468,8 +5468,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Damian Lucantonio",
 		"url": "31/31_21012243.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5481,8 +5481,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Joseph Robert Tabolt",
 		"url": "31/31_21012244.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5494,8 +5494,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Gibran　Garcia",
 		"url": "31/31_21012245.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5507,8 +5507,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Neil G. Roy",
 		"url": "31/31_21012246.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5520,8 +5520,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "MOREAU ROBERT",
 		"url": "31/31_21012247.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5533,8 +5533,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Derr, Jonathan",
 		"url": "31/31_21012248.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5546,8 +5546,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "Eric Hauser",
 		"url": "31/31_21013217.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5559,8 +5559,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "Arnold, Lee",
 		"url": "31/31_21013218.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5572,8 +5572,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "鄭　翠萍",
 		"url": "31/31_21013219.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5585,8 +5585,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "本多　幸七郎",
 		"url": "31/31_21013220.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5598,8 +5598,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "ｽﾃｲｰﾌﾞﾝ ﾀﾛｳ ｽｽﾞｷ",
 		"url": "31/31_21013221.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5611,8 +5611,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21013222.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5624,8 +5624,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21013223.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5637,8 +5637,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "ASCOUGH 朋子",
 		"url": "31/31_21013224.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5650,8 +5650,8 @@
 		"name": "Academic English for the Second Year Ⅱ",
 		"teacher": "Scott Mclellan",
 		"url": "31/31_21013227.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5663,8 +5663,8 @@
 		"name": "生涯スポーツ演習Ｂ（Ⅱ類）",
 		"teacher": "○田中（茂）・○泉水・○宮崎・○大辻・○八幡",
 		"url": "31/31_21014212.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5676,8 +5676,8 @@
 		"name": "微分積分学第二",
 		"teacher": "石上　嘉康",
 		"url": "31/31_21019211.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5689,8 +5689,8 @@
 		"name": "線形代数学第二",
 		"teacher": "榎本　直也",
 		"url": "31/31_21019213.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5702,8 +5702,8 @@
 		"name": "解析学",
 		"teacher": "久藤　衡介",
 		"url": "31/31_21019227.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5715,8 +5715,8 @@
 		"name": "物理学概論第二",
 		"teacher": "田中　繁",
 		"url": "31/31_21019250.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5728,8 +5728,8 @@
 		"name": "物理学概論第二",
 		"teacher": "芳原　容英",
 		"url": "31/31_21019252.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5741,8 +5741,8 @@
 		"name": "物理学概論第二",
 		"teacher": "來住　直人",
 		"url": "31/31_21019257.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5845,8 +5845,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Damian Lucantonio",
 		"url": "31/31_21012249.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5858,8 +5858,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "奥　浩昭",
 		"url": "31/31_21012250.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5871,8 +5871,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Joseph Robert Tabolt",
 		"url": "31/31_21012251.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5884,8 +5884,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "松本　恵美子",
 		"url": "31/31_21012253.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5897,8 +5897,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Neil G. Roy",
 		"url": "31/31_21012254.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5910,8 +5910,8 @@
 		"name": "Academic Spoken English Ⅱ",
 		"teacher": "Atsuko M Jeffreys",
 		"url": "31/31_21012255.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5923,8 +5923,8 @@
 		"name": "生涯スポーツ演習Ｂ（Ⅲ類）",
 		"teacher": "○田中（茂）・○泉水・○宮崎・○大辻・○八幡",
 		"url": "31/31_21014213.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -5936,8 +5936,8 @@
 		"name": "微分積分学第二",
 		"teacher": "久藤　衡介",
 		"url": "31/31_21019210.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5949,8 +5949,8 @@
 		"name": "解析学",
 		"teacher": "山口　耕平",
 		"url": "31/31_21019226.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5962,8 +5962,8 @@
 		"name": "解析学",
 		"teacher": "石田　晴久",
 		"url": "31/31_21019233.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5975,8 +5975,8 @@
 		"name": "物理学概論第二",
 		"teacher": "阪口　豊",
 		"url": "31/31_21019249.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -5988,8 +5988,8 @@
 		"name": "物理学概論第二",
 		"teacher": "田中　久陽",
 		"url": "31/31_21019253.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6001,8 +6001,8 @@
 		"name": "物理学概論第二",
 		"teacher": "沈　青",
 		"url": "31/31_21019255.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6014,8 +6014,8 @@
 		"name": "物理学概論第二",
 		"teacher": "小久保　伸人",
 		"url": "31/31_21019256.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6027,8 +6027,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "江木　啓訓・*笹倉理子",
 		"url": "31/31_21019273.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6209,8 +6209,8 @@
 		"name": "人間と教育",
 		"teacher": "佐々木啓子・武石典史",
 		"url": "31/31_21016209.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6222,8 +6222,8 @@
 		"name": "応用代数学",
 		"teacher": "大野　真裕",
 		"url": "31/31_21016226.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6235,8 +6235,8 @@
 		"name": "現代化学",
 		"teacher": "加固　昌寛　他",
 		"url": "31/31_21016227.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6248,8 +6248,8 @@
 		"name": "日本の科学と技術B",
 		"teacher": "濱野・マトゥティス",
 		"url": "31/31_21016228.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6261,8 +6261,8 @@
 		"name": "体力の科学",
 		"teacher": "星野　太佑",
 		"url": "31/31_21016231.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6274,8 +6274,8 @@
 		"name": "現代社会と対人関係",
 		"teacher": "大内　佑子",
 		"url": "31/31_21016232.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6287,8 +6287,8 @@
 		"name": "物理学概論第二（再履）",
 		"teacher": "佐野　一雄",
 		"url": "31/31_21019262.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6300,8 +6300,8 @@
 		"name": "基礎物理学演習第二",
 		"teacher": "中井　日佐司",
 		"url": "31/31_21024204.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6313,8 +6313,8 @@
 		"name": "道徳教育論",
 		"teacher": "西野　真由美",
 		"url": "31/31_21025204.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -6326,8 +6326,8 @@
 		"name": "情報科教育法II",
 		"teacher": "中山　泰一",
 		"url": "31/31_21025215.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -6339,8 +6339,8 @@
 		"name": "倫理学Ａ",
 		"teacher": "増山　浩人",
 		"url": "31/31_21011102.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6352,8 +6352,8 @@
 		"name": "美術Ａ",
 		"teacher": "久々湊　直子",
 		"url": "31/31_21011107.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6365,8 +6365,8 @@
 		"name": "音楽Ａ",
 		"teacher": "長岡　英",
 		"url": "31/31_21011108.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6378,8 +6378,8 @@
 		"name": "文化人類学Ａ",
 		"teacher": "執行　一利",
 		"url": "31/31_21011115.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6391,8 +6391,8 @@
 		"name": "技術史",
 		"teacher": "佐藤　賢一",
 		"url": "31/31_21011116.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6404,8 +6404,8 @@
 		"name": "日本文化Ｃ",
 		"teacher": "小山　慎治",
 		"url": "31/31_21013185.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6417,8 +6417,8 @@
 		"name": "生涯スポーツ演習Ａ（３年生以上・再履）",
 		"teacher": "狩野・○平田",
 		"url": "31/31_21014114.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6430,8 +6430,8 @@
 		"name": "文章表現トレーニング",
 		"teacher": "島内　景二",
 		"url": "31/31_21016106.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6443,8 +6443,8 @@
 		"name": "Introduction to Computational Methods in Science and Engineering",
 		"teacher": "Hans-Georg Matuttis",
 		"url": "31/31_21017108.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6456,7 +6456,7 @@
 		"name": "Advanced Engineering Science Ⅰ（Modern Optics and Photonics）（学域）",
 		"teacher": "富田　康生",
 		"url": "31/31_21017109.html",
-		"grade": "3/4",
+		"grade": "3,4",
 		"depertment": "Ⅲ類",
 		"category": "専門科目"
 	},
@@ -6469,8 +6469,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "羽田　陽一",
 		"url": "31/31_21018113.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -6482,8 +6482,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "若月　光夫",
 		"url": "31/31_21018121.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -6495,8 +6495,8 @@
 		"name": "ベンチャービジネス概論",
 		"teacher": "安部　博文",
 		"url": "31/31_21018140.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -6508,8 +6508,8 @@
 		"name": "微分積分学第一",
 		"teacher": "羽賀　淳一",
 		"url": "31/31_21019102.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6521,8 +6521,8 @@
 		"name": "線形代数学第一",
 		"teacher": "榎本　直也",
 		"url": "31/31_21019124.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6547,8 +6547,8 @@
 		"name": "哲学Ａ",
 		"teacher": "武笠　行雄",
 		"url": "31/31_21011101.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6560,8 +6560,8 @@
 		"name": "心理学Ａ",
 		"teacher": "久野　雅樹",
 		"url": "31/31_21011103.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6573,8 +6573,8 @@
 		"name": "科学史Ａ",
 		"teacher": "佐藤　賢一",
 		"url": "31/31_21011105.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6586,8 +6586,8 @@
 		"name": "文学Ａ",
 		"teacher": "島内　景二",
 		"url": "31/31_21011106.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6599,8 +6599,8 @@
 		"name": "社会学Ａ",
 		"teacher": "渡辺　彰規",
 		"url": "31/31_21011110.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6612,8 +6612,8 @@
 		"name": "生涯スポーツ演習Ａ（３年生以上・再履）",
 		"teacher": "星野・○平田",
 		"url": "31/31_21014115.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6625,8 +6625,8 @@
 		"name": "日本の内政と外交",
 		"teacher": "米山　忠寛",
 		"url": "31/31_21016105.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6638,8 +6638,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "柏原　昭博",
 		"url": "31/31_21018114.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -6651,8 +6651,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "栗原　正純・*笹倉　理子",
 		"url": "31/31_21018122.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -6664,8 +6664,8 @@
 		"name": "微分積分学第一",
 		"teacher": "羽賀　淳一",
 		"url": "31/31_21019110.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6677,8 +6677,8 @@
 		"name": "線形代数学第一",
 		"teacher": "榎本　直也",
 		"url": "31/31_21019118.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6690,8 +6690,8 @@
 		"name": "基礎数学演習第一",
 		"teacher": "濱野　哲子",
 		"url": "31/31_21024101.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6820,8 +6820,8 @@
 		"name": "人間と外交",
 		"teacher": "米山　忠寛",
 		"url": "31/31_21016104.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -6833,8 +6833,8 @@
 		"name": "数学演習第一",
 		"teacher": "伊東　裕也",
 		"url": "31/31_21019125.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6846,8 +6846,8 @@
 		"name": "数学演習第一",
 		"teacher": "大野　真裕",
 		"url": "31/31_21019126.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6859,8 +6859,8 @@
 		"name": "数学演習第一",
 		"teacher": "浮田　卓也",
 		"url": "31/31_21019127.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6872,8 +6872,8 @@
 		"name": "数学演習第一",
 		"teacher": "伊藤　賢一",
 		"url": "31/31_21019133.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6885,8 +6885,8 @@
 		"name": "数学演習第一",
 		"teacher": "三好　啓也",
 		"url": "31/31_21019135.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6898,8 +6898,8 @@
 		"name": "数学演習第一",
 		"teacher": "関根　正幸",
 		"url": "31/31_21019136.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -6912,7 +6912,7 @@
 		"teacher": "鈴木（勝）・佐々木（成）・中村（仁）・小久保・伏屋",
 		"url": "31/31_21019163.html",
 		"grade": "1",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7093,8 +7093,8 @@
 		"name": "科学的実在論の可能性",
 		"teacher": "武笠　行雄",
 		"url": "31/31_21016103.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7106,8 +7106,8 @@
 		"name": "王朝物語の精神史",
 		"teacher": "島内　景二",
 		"url": "31/31_21016107.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7119,8 +7119,8 @@
 		"name": "数学演習第一",
 		"teacher": "浮田　卓也",
 		"url": "31/31_21019128.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7132,8 +7132,8 @@
 		"name": "数学演習第一",
 		"teacher": "伊東　裕也",
 		"url": "31/31_21019129.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7145,8 +7145,8 @@
 		"name": "数学演習第一",
 		"teacher": "関根　正幸",
 		"url": "31/31_21019130.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7158,8 +7158,8 @@
 		"name": "数学演習第一",
 		"teacher": "天野　友之",
 		"url": "31/31_21019131.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7171,8 +7171,8 @@
 		"name": "数学演習第一",
 		"teacher": "伊藤　賢一",
 		"url": "31/31_21019132.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7184,8 +7184,8 @@
 		"name": "数学演習第一",
 		"teacher": "三好　啓也",
 		"url": "31/31_21019134.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7198,7 +7198,7 @@
 		"teacher": "鈴木（勝）・佐々木（成）・中村（仁）・小久保・伏屋",
 		"url": "31/31_21019164.html",
 		"grade": "1",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7288,8 +7288,8 @@
 		"name": "歴史学Ａ",
 		"teacher": "倉橋　良伸",
 		"url": "31/31_21011104.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7301,8 +7301,8 @@
 		"name": "政治学Ａ",
 		"teacher": "米山　忠寛",
 		"url": "31/31_21011112.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7314,8 +7314,8 @@
 		"name": "地理学Ａ",
 		"teacher": "戸田　真夏",
 		"url": "31/31_21011113.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7327,8 +7327,8 @@
 		"name": "社会思想史Ａ",
 		"teacher": "庄司　俊之",
 		"url": "31/31_21011114.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7340,8 +7340,8 @@
 		"name": "江戸の社会と数学",
 		"teacher": "佐藤　賢一",
 		"url": "31/31_21016108.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7353,8 +7353,8 @@
 		"name": "現代の教育",
 		"teacher": "佐々木　啓子・武石　典史",
 		"url": "31/31_21016109.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7366,8 +7366,8 @@
 		"name": "科学技術と人間",
 		"teacher": "○高橋(幸)・○知野・○関谷",
 		"url": "31/31_21016111.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7379,8 +7379,8 @@
 		"name": "ドイツ倫理学",
 		"teacher": "増山　浩人",
 		"url": "31/31_21016133.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7392,8 +7392,8 @@
 		"name": "Technical English － Basic English for Science（再履）",
 		"teacher": "橋本・史",
 		"url": "31/31_21018187.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -7405,8 +7405,8 @@
 		"name": "物理学概論第一（再履）",
 		"teacher": "浅井　和美",
 		"url": "31/31_21019149.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7418,8 +7418,8 @@
 		"name": "基礎数学演習第一",
 		"teacher": "濱野　哲子",
 		"url": "31/31_21024102.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7431,8 +7431,8 @@
 		"name": "教育課程編成論A",
 		"teacher": "狩野　浩二",
 		"url": "31/31_21025103.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -7444,8 +7444,8 @@
 		"name": "教育相談",
 		"teacher": "○西村智子・○宇部弘子",
 		"url": "31/31_21025104.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -7470,8 +7470,8 @@
 		"name": "情報処理演習第一",
 		"teacher": "中井　日佐司",
 		"url": "31/31_21024106.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7483,8 +7483,8 @@
 		"name": "倫理学Ｂ",
 		"teacher": "増山　浩人",
 		"url": "31/31_21011202.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7496,8 +7496,8 @@
 		"name": "美術Ｂ",
 		"teacher": "久々湊　直子",
 		"url": "31/31_21011207.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7509,8 +7509,8 @@
 		"name": "音楽Ｂ",
 		"teacher": "長岡　英",
 		"url": "31/31_21011208.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7522,8 +7522,8 @@
 		"name": "経済学Ｂ",
 		"teacher": "大澤　篤",
 		"url": "31/31_21011209.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7535,8 +7535,8 @@
 		"name": "地理学Ｂ",
 		"teacher": "戸田　真夏",
 		"url": "31/31_21011213.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7548,8 +7548,8 @@
 		"name": "文化人類学Ｂ",
 		"teacher": "執行　一利",
 		"url": "31/31_21011215.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7561,8 +7561,8 @@
 		"name": "日本文化Ｄ",
 		"teacher": "小山　慎治",
 		"url": "31/31_21013284.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7574,8 +7574,8 @@
 		"name": "生涯スポーツ演習Ｂ（３年生以上・再履）",
 		"teacher": "岡田（英）・○平田",
 		"url": "31/31_21014214.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7587,8 +7587,8 @@
 		"name": "近代小説の人間学",
 		"teacher": "島内　景二",
 		"url": "31/31_21016204.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7600,8 +7600,8 @@
 		"name": "認知科学",
 		"teacher": "久野　雅樹",
 		"url": "31/31_21016206.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7613,8 +7613,8 @@
 		"name": "環境論",
 		"teacher": "武笠　行雄　他",
 		"url": "31/31_21016210.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7626,8 +7626,8 @@
 		"name": "技術者倫理",
 		"teacher": "高野倉　雅人",
 		"url": "31/31_21018234.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -7782,8 +7782,8 @@
 		"name": "哲学Ｂ",
 		"teacher": "武笠　行雄",
 		"url": "31/31_21011201.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7795,8 +7795,8 @@
 		"name": "心理学Ｂ",
 		"teacher": "久野　雅樹",
 		"url": "31/31_21011203.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7808,8 +7808,8 @@
 		"name": "科学史Ｂ",
 		"teacher": "佐藤　賢一",
 		"url": "31/31_21011205.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7821,8 +7821,8 @@
 		"name": "文学Ｂ",
 		"teacher": "島内　景二",
 		"url": "31/31_21011206.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7834,8 +7834,8 @@
 		"name": "社会学Ｂ",
 		"teacher": "渡辺　彰規",
 		"url": "31/31_21011210.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7847,8 +7847,8 @@
 		"name": "日本語演習",
 		"teacher": "小山　慎治",
 		"url": "31/31_21013280.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7860,8 +7860,8 @@
 		"name": "生涯スポーツ演習Ｂ（３年生以上・再履）",
 		"teacher": "大河原・○平田",
 		"url": "31/31_21014215.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -7873,8 +7873,8 @@
 		"name": "微分積分学第二",
 		"teacher": "大野　真裕",
 		"url": "31/31_21019205.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7886,8 +7886,8 @@
 		"name": "線形代数学第二",
 		"teacher": "山田　裕一",
 		"url": "31/31_21019219.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7899,8 +7899,8 @@
 		"name": "解析学",
 		"teacher": "山口　耕平",
 		"url": "31/31_21019234.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7912,8 +7912,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "末廣　尚士",
 		"url": "31/31_21019265.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7925,8 +7925,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "守　裕也",
 		"url": "31/31_21019274.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -7938,8 +7938,8 @@
 		"name": "基礎数学演習第二",
 		"teacher": "濱野　哲子",
 		"url": "31/31_21024201.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8068,8 +8068,8 @@
 		"name": "数学演習第二",
 		"teacher": "天野　友之",
 		"url": "31/31_21019239.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8081,8 +8081,8 @@
 		"name": "数学演習第二",
 		"teacher": "関根　正幸",
 		"url": "31/31_21019240.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8094,8 +8094,8 @@
 		"name": "数学演習第二",
 		"teacher": "伊藤　賢一",
 		"url": "31/31_21019241.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8107,8 +8107,8 @@
 		"name": "数学演習第二",
 		"teacher": "三好　啓也",
 		"url": "31/31_21019244.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8120,8 +8120,8 @@
 		"name": "数学演習第二",
 		"teacher": "伊東　裕也",
 		"url": "31/31_21019247.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8133,8 +8133,8 @@
 		"name": "数学演習第二",
 		"teacher": "浮田　卓也",
 		"url": "31/31_21019248.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8146,8 +8146,8 @@
 		"name": "物理学演習第二",
 		"teacher": "鈴木（勝）・佐々木（成）・中村（仁）・小久保・伏屋",
 		"url": "31/31_21019276.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8315,8 +8315,8 @@
 		"name": "内包的文脈の諸相",
 		"teacher": "武笠　行雄",
 		"url": "31/31_21016202.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8328,8 +8328,8 @@
 		"name": "Advanced Reading in Academic English",
 		"teacher": "Atsuko M Jeffreys",
 		"url": "31/31_21016213.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8341,8 +8341,8 @@
 		"name": "数学演習第二",
 		"teacher": "天野　友之",
 		"url": "31/31_21019237.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8354,8 +8354,8 @@
 		"name": "数学演習第二",
 		"teacher": "関根　正幸",
 		"url": "31/31_21019238.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8367,8 +8367,8 @@
 		"name": "数学演習第二",
 		"teacher": "榎本　直也",
 		"url": "31/31_21019242.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8380,8 +8380,8 @@
 		"name": "数学演習第二",
 		"teacher": "浮田　卓也",
 		"url": "31/31_21019243.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8393,8 +8393,8 @@
 		"name": "数学演習第二",
 		"teacher": "三好　啓也",
 		"url": "31/31_21019245.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8406,8 +8406,8 @@
 		"name": "数学演習第二",
 		"teacher": "伊藤　賢一",
 		"url": "31/31_21019246.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8419,8 +8419,8 @@
 		"name": "物理学演習第二",
 		"teacher": "鈴木（勝）・佐々木（成）・中村（仁）・小久保・伏屋",
 		"url": "31/31_21019277.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8484,8 +8484,8 @@
 		"name": "歴史学Ｂ",
 		"teacher": "倉橋　良伸",
 		"url": "31/31_21011204.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8497,8 +8497,8 @@
 		"name": "政治学Ｂ",
 		"teacher": "米山　忠寛",
 		"url": "31/31_21011212.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8510,8 +8510,8 @@
 		"name": "社会思想史Ｂ",
 		"teacher": "庄司　俊之",
 		"url": "31/31_21011214.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8523,8 +8523,8 @@
 		"name": "伝統科学と近代科学の相克",
 		"teacher": "佐藤　賢一",
 		"url": "31/31_21016207.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8536,8 +8536,8 @@
 		"name": "認識の諸相",
 		"teacher": "島内　景二",
 		"url": "31/31_21016211.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8549,8 +8549,8 @@
 		"name": "健康の科学",
 		"teacher": "鶴ヶ野　しのぶ",
 		"url": "31/31_21016229.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8562,8 +8562,8 @@
 		"name": "英米倫理学",
 		"teacher": "増山　浩人",
 		"url": "31/31_21016234.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8575,8 +8575,8 @@
 		"name": "Technical English － Intermediate English for Science（再履）",
 		"teacher": "橋本・史",
 		"url": "31/31_21018287.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -8588,8 +8588,8 @@
 		"name": "基礎数学演習第二",
 		"teacher": "濱野　哲子",
 		"url": "31/31_21024202.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8601,8 +8601,8 @@
 		"name": "教育原理A",
 		"teacher": "佐々木　啓子",
 		"url": "31/31_21025205.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -8614,8 +8614,8 @@
 		"name": "情報処理演習第二",
 		"teacher": "中井　日佐司",
 		"url": "31/31_21024206.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -8627,8 +8627,8 @@
 		"name": "日本語第三（２年）（水２・金４）",
 		"teacher": "小山・池田",
 		"url": "31/31_21013184.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8640,8 +8640,8 @@
 		"name": "英語演習",
 		"teacher": "奥　浩昭",
 		"url": "31/31_21013135.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8653,8 +8653,8 @@
 		"name": "英語演習",
 		"teacher": "Atsuko M Jeffreys",
 		"url": "31/31_21013136.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8666,8 +8666,8 @@
 		"name": "独語演習",
 		"teacher": "谷崎　秋彦",
 		"url": "31/31_21013147.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8679,8 +8679,8 @@
 		"name": "仏語演習",
 		"teacher": "西村　晶絵",
 		"url": "31/31_21013150.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8692,8 +8692,8 @@
 		"name": "中国語演習",
 		"teacher": "千葉　偉一",
 		"url": "31/31_21013156.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8705,8 +8705,8 @@
 		"name": "中国語演習",
 		"teacher": "范　建明",
 		"url": "31/31_21013157.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8718,8 +8718,8 @@
 		"name": "韓国朝鮮語演習",
 		"teacher": "姜　勝薫",
 		"url": "31/31_21013160.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8731,8 +8731,8 @@
 		"name": "UEC Academic Skills III (Publishing Literacy and Research) ",
 		"teacher": "Choo　Cheow　Keong",
 		"url": "31/31_21017107.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8745,7 +8745,7 @@
 		"teacher": "由良　憲二",
 		"url": "31/31_21018101.html",
 		"grade": "1",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -8758,7 +8758,7 @@
 		"teacher": "Muthumaniraja　Saranyaraja",
 		"url": "31/31_21018161.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -8771,7 +8771,7 @@
 		"teacher": "Dermot　Lonergan",
 		"url": "31/31_21018162.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -8784,7 +8784,7 @@
 		"teacher": "Helene Karma Yim",
 		"url": "31/31_21018163.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -8797,7 +8797,7 @@
 		"teacher": "上原　寿和子",
 		"url": "31/31_21018164.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -8874,8 +8874,8 @@
 		"name": "選択独語第一",
 		"teacher": "中橋　誠",
 		"url": "31/31_21012181.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8887,8 +8887,8 @@
 		"name": "選択独語第一",
 		"teacher": "谷崎　秋彦",
 		"url": "31/31_21012182.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8900,8 +8900,8 @@
 		"name": "選択仏語第一",
 		"teacher": "西村　晶絵",
 		"url": "31/31_21012185.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8913,8 +8913,8 @@
 		"name": "選択露語第一",
 		"teacher": "澤　直哉",
 		"url": "31/31_21012186.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8926,8 +8926,8 @@
 		"name": "選択中国語第一",
 		"teacher": "范　建明",
 		"url": "31/31_21012187.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8939,8 +8939,8 @@
 		"name": "選択中国語第一",
 		"teacher": "李　偉",
 		"url": "31/31_21012188.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8952,8 +8952,8 @@
 		"name": "選択中国語第一",
 		"teacher": "千葉　偉一",
 		"url": "31/31_21012189.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8965,8 +8965,8 @@
 		"name": "選択韓国朝鮮語第一",
 		"teacher": "姜　勝薫",
 		"url": "31/31_21012191.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8978,8 +8978,8 @@
 		"name": "物理学概論第三",
 		"teacher": "鈴木　勝",
 		"url": "31/31_21015101.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -8991,8 +8991,8 @@
 		"name": "化学とエネルギー",
 		"teacher": "小林　義男",
 		"url": "31/31_21015102.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9004,8 +9004,8 @@
 		"name": "現代数学入門Ａ",
 		"teacher": "石田　晴久",
 		"url": "31/31_21015103.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9017,8 +9017,8 @@
 		"name": "現代数学入門Ｂ",
 		"teacher": "榎本　直也",
 		"url": "31/31_21015104.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9031,7 +9031,7 @@
 		"teacher": "Muthumaniraja　Saranyaraja",
 		"url": "31/31_21018165.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9044,7 +9044,7 @@
 		"teacher": "Dermot　Lonergan",
 		"url": "31/31_21018166.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9057,7 +9057,7 @@
 		"teacher": "Arnold, Lee",
 		"url": "31/31_21018178.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9070,7 +9070,7 @@
 		"teacher": "上原　寿和子",
 		"url": "31/31_21018179.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9174,7 +9174,7 @@
 		"teacher": "戦　海燕",
 		"url": "31/31_21018169.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9187,7 +9187,7 @@
 		"teacher": "Dermot　Lonergan",
 		"url": "31/31_21018170.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9200,7 +9200,7 @@
 		"teacher": "Adam Dabrowski",
 		"url": "31/31_21018171.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9212,8 +9212,8 @@
 		"name": "線形代数学第一",
 		"teacher": "陸名　雄一",
 		"url": "31/31_21019114.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -9368,8 +9368,8 @@
 		"name": "基礎科学実験A",
 		"teacher": "水柿・松吉・津田・梶川・○近藤・○大石・*小林",
 		"url": "31/31_21018103.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9381,8 +9381,8 @@
 		"name": "基礎科学実験B",
 		"teacher": "山北　佳宏",
 		"url": "31/31_21018106.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9407,8 +9407,8 @@
 		"name": "比較文化論",
 		"teacher": "中橋　誠",
 		"url": "31/31_21016121.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9420,8 +9420,8 @@
 		"name": "Topics in Informatics Ⅱ（Sustainable Supply Chain Management）（学域）",
 		"teacher": "山田　哲男",
 		"url": "31/31_21017111.html",
-		"grade": "2/3/4",
-		"depertment": "Ⅰ類/Ⅱ類",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類",
 		"category": "専門科目"
 	},
 	{
@@ -9434,7 +9434,7 @@
 		"teacher": "戦　海燕",
 		"url": "31/31_21018172.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9447,7 +9447,7 @@
 		"teacher": "Adam Dabrowski",
 		"url": "31/31_21018173.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9460,7 +9460,7 @@
 		"teacher": "Shi Jie",
 		"url": "31/31_21018174.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9473,7 +9473,7 @@
 		"teacher": "于　燕（Yu Yan）",
 		"url": "31/31_21018175.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9485,8 +9485,8 @@
 		"name": "線形代数学第一",
 		"teacher": "陸名　雄一",
 		"url": "31/31_21019121.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -9498,8 +9498,8 @@
 		"name": "化学概論第一",
 		"teacher": "加固　昌寛",
 		"url": "31/31_21019151.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -9576,8 +9576,8 @@
 		"name": "選択独語第一",
 		"teacher": "中橋　誠",
 		"url": "31/31_21012184.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9589,8 +9589,8 @@
 		"name": "選択中国語第一",
 		"teacher": "范　建明",
 		"url": "31/31_21012190.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9602,8 +9602,8 @@
 		"name": "日本文化Ｅ",
 		"teacher": "志賀　幹郎",
 		"url": "31/31_21013186.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9615,8 +9615,8 @@
 		"name": "運動と筋の科学",
 		"teacher": "狩野　豊",
 		"url": "31/31_21016130.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9629,7 +9629,7 @@
 		"teacher": "前佛・中鹿",
 		"url": "31/31_21018133.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9641,8 +9641,8 @@
 		"name": "Technical English － Basic English for Science（再履）",
 		"teacher": "○Yu・史",
 		"url": "31/31_21018188.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9654,8 +9654,8 @@
 		"name": "物理学概論第一（再履）",
 		"teacher": "佐野　一雄",
 		"url": "31/31_21019150.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -9667,8 +9667,8 @@
 		"name": "基礎物理学演習第一",
 		"teacher": "中井　日佐司",
 		"url": "31/31_21024104.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -9681,7 +9681,7 @@
 		"teacher": "佐々木（啓）・赤澤・武石",
 		"url": "31/31_21025115.html",
 		"grade": "4",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -9694,7 +9694,7 @@
 		"teacher": "佐々木（啓）・赤澤・武石",
 		"url": "31/31_21025117.html",
 		"grade": "4",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -9706,8 +9706,8 @@
 		"name": "基礎科学実験A（再履）",
 		"teacher": "中村　仁他",
 		"url": "31/31_21018108.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9719,8 +9719,8 @@
 		"name": "健康・体力つくり実習",
 		"teacher": "岡田（英）・○北川・○服部・○小泉",
 		"url": "31/31_21014306.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9732,8 +9732,8 @@
 		"name": "健康・体力つくり実習",
 		"teacher": "岡田（英）・○北川・○服部・○小泉",
 		"url": "31/31_21014304.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9745,8 +9745,8 @@
 		"name": "英語演習",
 		"teacher": "奥　浩昭",
 		"url": "31/31_21013235.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9758,8 +9758,8 @@
 		"name": "英語演習",
 		"teacher": "Atsuko M Jeffreys",
 		"url": "31/31_21013238.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9771,8 +9771,8 @@
 		"name": "独語運用演習",
 		"teacher": "谷崎　秋彦",
 		"url": "31/31_21013247.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9784,8 +9784,8 @@
 		"name": "仏語運用演習",
 		"teacher": "西村　晶絵",
 		"url": "31/31_21013250.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9797,8 +9797,8 @@
 		"name": "中国語運用演習",
 		"teacher": "千葉　偉一",
 		"url": "31/31_21013256.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9810,8 +9810,8 @@
 		"name": "中国語運用演習",
 		"teacher": "范　建明",
 		"url": "31/31_21013257.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9823,8 +9823,8 @@
 		"name": "韓国朝鮮語運用演習",
 		"teacher": "姜　勝薫",
 		"url": "31/31_21013260.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9836,8 +9836,8 @@
 		"name": "宇宙・地球科学",
 		"teacher": "但木　謙一",
 		"url": "31/31_21015201.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9850,7 +9850,7 @@
 		"teacher": "鈴木　勝",
 		"url": "31/31_21015202.html",
 		"grade": "1",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9862,8 +9862,8 @@
 		"name": "生物学",
 		"teacher": "瀧　真清・松田信爾",
 		"url": "31/31_21015203.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9875,8 +9875,8 @@
 		"name": "材料化学",
 		"teacher": "小林　義男",
 		"url": "31/31_21015204.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9888,8 +9888,8 @@
 		"name": "UEC Academic Skills III (Publishing Literacy and Research) ",
 		"teacher": "Choo　Cheow　Keong",
 		"url": "31/31_21017207.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -9902,7 +9902,7 @@
 		"teacher": "Muthumaniraja　Saranyaraja",
 		"url": "31/31_21018269.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9915,7 +9915,7 @@
 		"teacher": "Dermot　Lonergan",
 		"url": "31/31_21018270.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9928,7 +9928,7 @@
 		"teacher": "Helene Karma Yim",
 		"url": "31/31_21018279.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9941,7 +9941,7 @@
 		"teacher": "上原　寿和子",
 		"url": "31/31_21018280.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -9992,8 +9992,8 @@
 		"name": "選択独語第二",
 		"teacher": "中橋　誠",
 		"url": "31/31_21012281.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10005,8 +10005,8 @@
 		"name": "選択独語第二",
 		"teacher": "谷崎　秋彦",
 		"url": "31/31_21012282.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10018,8 +10018,8 @@
 		"name": "選択仏語第二",
 		"teacher": "西村　晶絵",
 		"url": "31/31_21012285.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10031,8 +10031,8 @@
 		"name": "選択露語第二",
 		"teacher": "澤　直哉",
 		"url": "31/31_21012286.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10044,8 +10044,8 @@
 		"name": "選択中国語第二",
 		"teacher": "范　建明",
 		"url": "31/31_21012287.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10057,8 +10057,8 @@
 		"name": "選択中国語第二",
 		"teacher": "李　偉",
 		"url": "31/31_21012288.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10070,8 +10070,8 @@
 		"name": "選択中国語第二",
 		"teacher": "千葉　偉一",
 		"url": "31/31_21012289.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10083,8 +10083,8 @@
 		"name": "選択韓国朝鮮語第二",
 		"teacher": "姜　勝薫",
 		"url": "31/31_21012291.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10096,8 +10096,8 @@
 		"name": "Advanced Communication Engineering and Informatics Ⅲ（Computational Complexity）（学域）",
 		"teacher": "垂井　淳",
 		"url": "31/31_21017210.html",
-		"grade": "3/4",
-		"depertment": "Ⅰ類/Ⅱ類",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類",
 		"category": "専門科目"
 	},
 	{
@@ -10110,7 +10110,7 @@
 		"teacher": "Muthumaniraja　Saranyaraja",
 		"url": "31/31_21018271.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10123,7 +10123,7 @@
 		"teacher": "Dermot　Lonergan",
 		"url": "31/31_21018272.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10136,7 +10136,7 @@
 		"teacher": "Arnold, Lee",
 		"url": "31/31_21018273.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10149,7 +10149,7 @@
 		"teacher": "上原　寿和子",
 		"url": "31/31_21018274.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10330,8 +10330,8 @@
 		"name": "健康論",
 		"teacher": "岡田（英）・未定・鶴ヶ野・○北川・○服部・○小泉",
 		"url": "31/31_21014206.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10343,8 +10343,8 @@
 		"name": "Advanced Communication Engineering and Informatics Ⅳ（Computer Algorithms）（学域）",
 		"teacher": "小林　聡",
 		"url": "31/31_21017211.html",
-		"grade": "3/4",
-		"depertment": "Ⅰ類/Ⅱ類",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類",
 		"category": "専門科目"
 	},
 	{
@@ -10357,7 +10357,7 @@
 		"teacher": "戦　海燕（ZHAN）",
 		"url": "31/31_21018281.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10370,7 +10370,7 @@
 		"teacher": "Dermot　Lonergan",
 		"url": "31/31_21018282.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10383,7 +10383,7 @@
 		"teacher": "Adam Dabrowski",
 		"url": "31/31_21018283.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10395,8 +10395,8 @@
 		"name": "微分積分学第二",
 		"teacher": "山口　耕平",
 		"url": "31/31_21019201.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -10408,8 +10408,8 @@
 		"name": "線形代数学第二",
 		"teacher": "陸名　雄一",
 		"url": "31/31_21019214.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -10421,8 +10421,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "織田　健",
 		"url": "31/31_21019269.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -10434,8 +10434,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "本多　弘樹",
 		"url": "31/31_21019270.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -10551,7 +10551,7 @@
 		"name": "Experimental Electronics Laboratory（学域）",
 		"teacher": "岸本・Vohra",
 		"url": "31/31_21017208.html",
-		"grade": "2/3/4",
+		"grade": "2,3,4",
 		"depertment": "Ⅲ類",
 		"category": "専門科目"
 	},
@@ -10564,8 +10564,8 @@
 		"name": "基礎科学実験A",
 		"teacher": "伏屋・清・伊藤(毅)・舩戸・姜・○近藤",
 		"url": "31/31_21018202.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10577,8 +10577,8 @@
 		"name": "基礎科学実験B",
 		"teacher": "山北　佳宏",
 		"url": "31/31_21018205.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10655,8 +10655,8 @@
 		"name": "健康論",
 		"teacher": "岡田（英）・未定・鶴ヶ野・○北川・○服部・○小泉",
 		"url": "31/31_21014204.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10668,8 +10668,8 @@
 		"name": "文化と言語",
 		"teacher": "中橋　誠",
 		"url": "31/31_21016223.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10682,7 +10682,7 @@
 		"teacher": "戦　海燕（ZHAN）",
 		"url": "31/31_21018275.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10695,7 +10695,7 @@
 		"teacher": "Adam Dabrowski",
 		"url": "31/31_21018276.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10708,7 +10708,7 @@
 		"teacher": "于　燕（Yu Yan）",
 		"url": "31/31_21018278.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10720,8 +10720,8 @@
 		"name": "線形代数学第二",
 		"teacher": "陸名　雄一",
 		"url": "31/31_21019221.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -10733,8 +10733,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "兼岩　憲",
 		"url": "31/31_21019263.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -10746,8 +10746,8 @@
 		"name": "基礎プログラミングおよび演習",
 		"teacher": "戸田　貴久",
 		"url": "31/31_21019264.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -10876,8 +10876,8 @@
 		"name": "選択独語第二",
 		"teacher": "中橋　誠",
 		"url": "31/31_21012283.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10889,8 +10889,8 @@
 		"name": "選択中国語第二",
 		"teacher": "范　建明",
 		"url": "31/31_21012290.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10902,8 +10902,8 @@
 		"name": "スポーツとコミュニケーション",
 		"teacher": "大河原　一憲",
 		"url": "31/31_21016230.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10915,8 +10915,8 @@
 		"name": "倫理学と哲学の間",
 		"teacher": "増山　浩人",
 		"url": "31/31_21016233.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10928,8 +10928,8 @@
 		"name": "Topics in Mechanical and Intelligent Systems Engineering Ⅱ（The human brain as intelligent machines）（学域）",
 		"teacher": "宮脇　陽一",
 		"url": "31/31_21017212.html",
-		"grade": "3/4",
-		"depertment": "Ⅱ類/Ⅲ類",
+		"grade": "3,4",
+		"depertment": "Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -10941,8 +10941,8 @@
 		"name": "学域特別講義Ｂ（日本レコード協会寄附講座）「情報化社会におけるクリエイティブビジネスと著作権」",
 		"teacher": "渡邉　恵理子・鈴木　勝",
 		"url": "31/31_21017254.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -10954,8 +10954,8 @@
 		"name": "Technical English － Intermediate English for Science（再履）",
 		"teacher": "于・史",
 		"url": "31/31_21018288.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -10967,8 +10967,8 @@
 		"name": "物理学概論第二（再履）",
 		"teacher": "檜枝　光憲",
 		"url": "31/31_21019261.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -10980,8 +10980,8 @@
 		"name": "化学概論第二",
 		"teacher": "加固　昌寛",
 		"url": "31/31_21019275.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11007,7 +11007,7 @@
 		"teacher": "佐々木・中山・武石・伊東・○赤澤・○鈴木（隆）・○井上",
 		"url": "31/31_21025301.html",
 		"grade": "4",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -11020,7 +11020,7 @@
 		"teacher": "佐々木・中山・武石・伊東・○赤澤・○鈴木（隆）・○井上",
 		"url": "31/31_21025302.html",
 		"grade": "4",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -11033,7 +11033,7 @@
 		"teacher": "佐々木・中山・武石・伊東・○赤澤・○鈴木（隆）・○井上",
 		"url": "31/31_21025303.html",
 		"grade": "4",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -11046,7 +11046,7 @@
 		"teacher": "佐々木・中山・武石・伊東・○赤澤・○鈴木（隆）・○井上",
 		"url": "31/31_21025304.html",
 		"grade": "4",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -11058,8 +11058,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "John Francis Cross",
 		"url": "31/31_21012101.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11071,8 +11071,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "Chris Litten",
 		"url": "31/31_21012102.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11084,8 +11084,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "Topor, F.Sigmund",
 		"url": "31/31_21012103.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11097,8 +11097,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "田中　智子",
 		"url": "31/31_21012104.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11110,8 +11110,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21012105.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11123,8 +11123,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "Mark Diab",
 		"url": "31/31_21012106.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11136,8 +11136,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "髙玉　圭樹",
 		"url": "31/31_21018117.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -11149,8 +11149,8 @@
 		"name": "線形代数学第一",
 		"teacher": "井上　浩一",
 		"url": "31/31_21019116.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11162,8 +11162,8 @@
 		"name": "線形代数学第一",
 		"teacher": "中井　洋史",
 		"url": "31/31_21019120.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11175,8 +11175,8 @@
 		"name": "基礎物理学演習第一",
 		"teacher": "濱野　哲子",
 		"url": "31/31_21024105.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11318,8 +11318,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21012107.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11331,8 +11331,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "Atsuko M Jeffreys",
 		"url": "31/31_21012108.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11344,8 +11344,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "John Francis Cross",
 		"url": "31/31_21012109.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11357,8 +11357,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21012110.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11370,8 +11370,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "田中　智子",
 		"url": "31/31_21012111.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11383,8 +11383,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "Mark Diab",
 		"url": "31/31_21012112.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11396,8 +11396,8 @@
 		"name": "数学の哲学",
 		"teacher": "武笠　行雄",
 		"url": "31/31_21016102.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11409,8 +11409,8 @@
 		"name": "コンピュータリテラシー　",
 		"teacher": "栗原　正純",
 		"url": "31/31_21018118.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -11423,7 +11423,7 @@
 		"teacher": "Gary Wolff",
 		"url": "31/31_21018167.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -11436,7 +11436,7 @@
 		"teacher": "Adam Dabrowski",
 		"url": "31/31_21018168.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -11449,7 +11449,7 @@
 		"teacher": "Chris Litten",
 		"url": "31/31_21018176.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -11462,7 +11462,7 @@
 		"teacher": "Kathleen　Era",
 		"url": "31/31_21018177.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -11474,8 +11474,8 @@
 		"name": "微分積分学第一",
 		"teacher": "岡野　恵司",
 		"url": "31/31_21019106.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11487,8 +11487,8 @@
 		"name": "線形代数学第一",
 		"teacher": "山田　裕一",
 		"url": "31/31_21019113.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11500,8 +11500,8 @@
 		"name": "線形代数学第一",
 		"teacher": "井上　浩一",
 		"url": "31/31_21019115.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11513,8 +11513,8 @@
 		"name": "線形代数学第一",
 		"teacher": "中井　洋史",
 		"url": "31/31_21019117.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11526,8 +11526,8 @@
 		"name": "化学概論第一",
 		"teacher": "石田　尚行",
 		"url": "31/31_21019157.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11539,8 +11539,8 @@
 		"name": "化学概論第一",
 		"teacher": "加固　昌寛",
 		"url": "31/31_21019161.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11695,8 +11695,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21012113.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11708,8 +11708,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "Joseph Robert Tabolt",
 		"url": "31/31_21012114.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11721,8 +11721,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "田中　智子",
 		"url": "31/31_21012115.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11734,8 +11734,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21012116.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11747,8 +11747,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "大石　由紀子",
 		"url": "31/31_21012117.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11760,8 +11760,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "Topor, F.Sigmund",
 		"url": "31/31_21012118.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11773,7 +11773,7 @@
 		"name": "Advanced Engineering Science Ⅱ（Photonics and Opto-electronics）（学域）",
 		"teacher": "上野　芳康",
 		"url": "31/31_21017110.html",
-		"grade": "3/4",
+		"grade": "3,4",
 		"depertment": "Ⅲ類",
 		"category": "専門科目"
 	},
@@ -11787,7 +11787,7 @@
 		"teacher": "Gary Wolff",
 		"url": "31/31_21018180.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -11800,7 +11800,7 @@
 		"teacher": "Adam Dabrowski",
 		"url": "31/31_21018181.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -11813,7 +11813,7 @@
 		"teacher": "Chris Litten",
 		"url": "31/31_21018182.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -11825,8 +11825,8 @@
 		"name": "微分積分学第一",
 		"teacher": "岡野　恵司",
 		"url": "31/31_21019112.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11838,8 +11838,8 @@
 		"name": "線形代数学第一",
 		"teacher": "公文　雅之",
 		"url": "31/31_21019119.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -11916,8 +11916,8 @@
 		"name": "基礎科学実験A",
 		"teacher": "中村（信）・広田・サントソ・田中（繁）・○内田・○齋藤・*神水",
 		"url": "31/31_21018104.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -11929,8 +11929,8 @@
 		"name": "基礎科学実験B",
 		"teacher": "小林　義男",
 		"url": "31/31_21018107.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -11981,8 +11981,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "奥　浩昭",
 		"url": "31/31_21012119.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -11994,8 +11994,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "Scott Mclellan",
 		"url": "31/31_21012120.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12007,8 +12007,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "Joseph Robert Tabolt",
 		"url": "31/31_21012121.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12020,8 +12020,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "大石　由紀子",
 		"url": "31/31_21012122.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12033,8 +12033,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21012123.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12046,8 +12046,8 @@
 		"name": "Academic Written EnglishⅠ",
 		"teacher": "Topor, F.Sigmund",
 		"url": "31/31_21012124.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12059,8 +12059,8 @@
 		"name": "英語演習",
 		"teacher": "Eric Hauser",
 		"url": "31/31_21013138.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12072,8 +12072,8 @@
 		"name": "英語演習",
 		"teacher": "Damian Lucantonio",
 		"url": "31/31_21013139.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12085,8 +12085,8 @@
 		"name": "英語演習",
 		"teacher": "Atsuko M Jeffreys",
 		"url": "31/31_21013140.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12098,8 +12098,8 @@
 		"name": "独語演習",
 		"teacher": "野内　聡",
 		"url": "31/31_21013148.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12112,7 +12112,7 @@
 		"teacher": "Gary Wolff",
 		"url": "31/31_21018183.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -12125,7 +12125,7 @@
 		"teacher": "Adam Dabrowski",
 		"url": "31/31_21018184.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -12138,7 +12138,7 @@
 		"teacher": "Chris Litten",
 		"url": "31/31_21018185.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -12151,7 +12151,7 @@
 		"teacher": "于　燕（Yu Yan）",
 		"url": "31/31_21018186.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -12163,8 +12163,8 @@
 		"name": "線形代数学第一",
 		"teacher": "公文　雅之",
 		"url": "31/31_21019123.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12215,8 +12215,8 @@
 		"name": "選択独語第一",
 		"teacher": "野内　聡",
 		"url": "31/31_21012183.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12228,8 +12228,8 @@
 		"name": "日本文化Ａ",
 		"teacher": "中村　重穂",
 		"url": "31/31_21013183.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12241,8 +12241,8 @@
 		"name": "English for Intercultural Communication",
 		"teacher": "Eric Hauser",
 		"url": "31/31_21016114.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12254,8 +12254,8 @@
 		"name": "文化干渉論",
 		"teacher": "谷崎　秋彦",
 		"url": "31/31_21016122.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12267,8 +12267,8 @@
 		"name": "特別活動・総合的な学習の時間の指導法",
 		"teacher": "宮古　紀宏",
 		"url": "31/31_21025105.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -12280,8 +12280,8 @@
 		"name": "数学科教育法IA",
 		"teacher": "矢嶋　昭雄",
 		"url": "31/31_21025107.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -12293,8 +12293,8 @@
 		"name": "理科教育法IB",
 		"teacher": "川角　博",
 		"url": "31/31_21025109.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -12306,8 +12306,8 @@
 		"name": "健康・体力つくり実習",
 		"teacher": "安藤（創）・狩野・星野・○早川",
 		"url": "31/31_21014302.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12319,8 +12319,8 @@
 		"name": "健康・体力つくり実習",
 		"teacher": "安藤（創）・狩野・星野・○早川",
 		"url": "31/31_21014303.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12332,8 +12332,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "John Francis Cross",
 		"url": "31/31_21012201.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12345,8 +12345,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "Chris Litten",
 		"url": "31/31_21012202.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12358,8 +12358,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "Topor, F.Sigmund",
 		"url": "31/31_21012203.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12371,8 +12371,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "田中　智子",
 		"url": "31/31_21012204.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12384,8 +12384,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21012205.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12397,8 +12397,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "Mark Diab",
 		"url": "31/31_21012206.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12410,8 +12410,8 @@
 		"name": "微分積分学第二",
 		"teacher": "伊東　裕也",
 		"url": "31/31_21019204.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12423,8 +12423,8 @@
 		"name": "線形代数学第二",
 		"teacher": "中井　洋史",
 		"url": "31/31_21019222.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12436,8 +12436,8 @@
 		"name": "解析学",
 		"teacher": "池田　和正",
 		"url": "31/31_21019230.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12449,8 +12449,8 @@
 		"name": "解析学",
 		"teacher": "加治佐　博幸",
 		"url": "31/31_21019236.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12462,8 +12462,8 @@
 		"name": "基礎物理学演習第二",
 		"teacher": "濱野　哲子",
 		"url": "31/31_21024205.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12605,8 +12605,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21012207.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12618,8 +12618,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "Atsuko M Jeffreys",
 		"url": "31/31_21012208.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12631,8 +12631,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "Mark Diab",
 		"url": "31/31_21012209.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12644,8 +12644,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21012210.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12657,8 +12657,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "田中　智子",
 		"url": "31/31_21012211.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12670,8 +12670,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "John Francis Cross",
 		"url": "31/31_21012212.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -12684,7 +12684,7 @@
 		"teacher": "Gary Wolff",
 		"url": "31/31_21018261.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -12697,7 +12697,7 @@
 		"teacher": "Adam Dabrowski",
 		"url": "31/31_21018262.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -12710,7 +12710,7 @@
 		"teacher": "Chris Litten",
 		"url": "31/31_21018263.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -12723,7 +12723,7 @@
 		"teacher": "Kathleen　Era",
 		"url": "31/31_21018264.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -12735,8 +12735,8 @@
 		"name": "微分積分学第二",
 		"teacher": "岡野　恵司",
 		"url": "31/31_21019202.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12748,8 +12748,8 @@
 		"name": "微分積分学第二",
 		"teacher": "伊東　裕也",
 		"url": "31/31_21019206.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12761,8 +12761,8 @@
 		"name": "線形代数学第二",
 		"teacher": "阪口　豊",
 		"url": "31/31_21019215.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12774,8 +12774,8 @@
 		"name": "線形代数学第二",
 		"teacher": "中井　洋史",
 		"url": "31/31_21019217.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12787,8 +12787,8 @@
 		"name": "解析学",
 		"teacher": "池田　和正",
 		"url": "31/31_21019225.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12800,8 +12800,8 @@
 		"name": "解析学",
 		"teacher": "加治佐　博幸",
 		"url": "31/31_21019232.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -12813,8 +12813,8 @@
 		"name": "解析学",
 		"teacher": "羽賀　淳一",
 		"url": "31/31_21019235.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -13060,8 +13060,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "Joseph Robert Tabolt",
 		"url": "31/31_21012214.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13073,8 +13073,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "田中　智子",
 		"url": "31/31_21012215.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13086,8 +13086,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "HIGUCHI SONIA",
 		"url": "31/31_21012216.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13099,8 +13099,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "Topor, F.Sigmund",
 		"url": "31/31_21012217.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13112,8 +13112,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21012218.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13125,8 +13125,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "奥　浩昭",
 		"url": "31/31_21012219.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13138,8 +13138,8 @@
 		"name": "健康論",
 		"teacher": "安藤（創）・狩野・未定・鶴ヶ野・星野・○早川",
 		"url": "31/31_21014202.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13152,7 +13152,7 @@
 		"teacher": "Gary Wolff",
 		"url": "31/31_21018265.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -13165,7 +13165,7 @@
 		"teacher": "Adam Dabrowski",
 		"url": "31/31_21018266.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -13178,7 +13178,7 @@
 		"teacher": "Chris Litten",
 		"url": "31/31_21018267.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -13191,7 +13191,7 @@
 		"teacher": "Shi Jie",
 		"url": "31/31_21018268.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -13203,8 +13203,8 @@
 		"name": "微分積分学第二",
 		"teacher": "岡野　恵司",
 		"url": "31/31_21019208.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -13216,8 +13216,8 @@
 		"name": "線形代数学第二",
 		"teacher": "公文　雅之",
 		"url": "31/31_21019224.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -13229,8 +13229,8 @@
 		"name": "解析学",
 		"teacher": "羽賀　淳一",
 		"url": "31/31_21019231.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -13320,8 +13320,8 @@
 		"name": "基礎科学実験A",
 		"teacher": "佐々木・菅原・吉田・○内田・○齋藤・○大石・*高田・*神水",
 		"url": "31/31_21018203.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -13333,8 +13333,8 @@
 		"name": "基礎科学実験B",
 		"teacher": "小林　義男",
 		"url": "31/31_21018206.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -13372,8 +13372,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "Scott Mclellan",
 		"url": "31/31_21012220.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13385,8 +13385,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "Joseph Robert Tabolt",
 		"url": "31/31_21012221.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13398,8 +13398,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "松本　恵美子",
 		"url": "31/31_21012223.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13411,8 +13411,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "Topor, F.Sigmund",
 		"url": "31/31_21012224.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13424,8 +13424,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "Kevin Thomas",
 		"url": "31/31_21012225.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13437,8 +13437,8 @@
 		"name": "Academic Written English Ⅱ",
 		"teacher": "中田　真巳子",
 		"url": "31/31_21012226.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13450,8 +13450,8 @@
 		"name": "英語演習",
 		"teacher": "上原　寿和子",
 		"url": "31/31_21013234.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13463,8 +13463,8 @@
 		"name": "英語演習",
 		"teacher": "Damian Lucantonio",
 		"url": "31/31_21013236.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13476,8 +13476,8 @@
 		"name": "英語演習",
 		"teacher": "Eric Hauser",
 		"url": "31/31_21013237.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13489,8 +13489,8 @@
 		"name": "独語運用演習",
 		"teacher": "野内　聡",
 		"url": "31/31_21013248.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13502,8 +13502,8 @@
 		"name": "健康論",
 		"teacher": "安藤（創）・狩野・未定・鶴ヶ野・星野・○早川",
 		"url": "31/31_21014203.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13516,7 +13516,7 @@
 		"teacher": "Adam Dabrowski",
 		"url": "31/31_21018277.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -13529,7 +13529,7 @@
 		"teacher": "于　燕（Yu Yan）",
 		"url": "31/31_21018284.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -13542,7 +13542,7 @@
 		"teacher": "Gary Wolff",
 		"url": "31/31_21018285.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -13555,7 +13555,7 @@
 		"teacher": "Chris Litten",
 		"url": "31/31_21018286.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -13567,8 +13567,8 @@
 		"name": "線形代数学第二",
 		"teacher": "公文　雅之",
 		"url": "31/31_21019223.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -13671,8 +13671,8 @@
 		"name": "選択独語第二",
 		"teacher": "野内　聡",
 		"url": "31/31_21012284.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13684,8 +13684,8 @@
 		"name": "日本文化Ｂ",
 		"teacher": "池田　裕",
 		"url": "31/31_21013283.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13697,8 +13697,8 @@
 		"name": "現代の世界政治",
 		"teacher": "金森　俊樹",
 		"url": "31/31_21016203.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13710,8 +13710,8 @@
 		"name": "Research Writing",
 		"teacher": "Eric Hauser",
 		"url": "31/31_21016212.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13723,8 +13723,8 @@
 		"name": "地域文化論",
 		"teacher": "谷崎　秋彦",
 		"url": "31/31_21016221.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13736,8 +13736,8 @@
 		"name": "物理学の発展と最前線",
 		"teacher": "鈴木（勝）・佐々木（成）・中村(仁)・小久保・伏屋",
 		"url": "31/31_21016225.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13749,7 +13749,7 @@
 		"name": "生物学概論（Ⅱ類）",
 		"teacher": "白川　英樹",
 		"url": "31/31_21025203.html",
-		"grade": "1/2/3/4",
+		"grade": "1,2,3,4",
 		"depertment": "Ⅱ類",
 		"category": "教職科目"
 	},
@@ -13762,8 +13762,8 @@
 		"name": "生徒指導・進路指導論",
 		"teacher": "滝　充",
 		"url": "31/31_21025206.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -13775,8 +13775,8 @@
 		"name": "数学科教育法II",
 		"teacher": "羽住　邦男",
 		"url": "31/31_21025216.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -13788,8 +13788,8 @@
 		"name": "経済学Ａ（集中）",
 		"teacher": "大澤　篤",
 		"url": "31/31_21011109.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13801,8 +13801,8 @@
 		"name": "法学Ａ（集中）",
 		"teacher": "荒邦　啓介",
 		"url": "31/31_21011111.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13814,8 +13814,8 @@
 		"name": "生涯スポーツ演習Ｃ（ゴルフ集中）",
 		"teacher": "大河原・狩野・安藤（創）・○長峰・○上遠野",
 		"url": "31/31_21014116.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13827,8 +13827,8 @@
 		"name": "教育と憲法（日本国憲法）（集中）",
 		"teacher": "河合　正雄・佐々木　啓子・武石　典史",
 		"url": "31/31_21016110.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13840,8 +13840,8 @@
 		"name": "サイエンス・コミュニケーション演習（集中）",
 		"teacher": "鈴木　勝",
 		"url": "31/31_21016126.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13853,8 +13853,8 @@
 		"name": "海外語学研修Ⅰ（学域・夏）（集中）",
 		"teacher": "佐々木　直子",
 		"url": "31/31_21017103.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13866,8 +13866,8 @@
 		"name": "海外語学研修Ⅱ（学域・夏）（集中）",
 		"teacher": "佐々木　直子",
 		"url": "31/31_21017104.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13879,8 +13879,8 @@
 		"name": "学域特別講義A（3大学協働基礎ゼミ’１９：超小型コンピュータ）",
 		"teacher": "細川　敬祐",
 		"url": "31/31_21017151.html",
-		"grade": "1/2",
-		"depertment": "情報理工学域",
+		"grade": "1,2",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13892,8 +13892,8 @@
 		"name": "学域特別講義A（3大学協働基礎ゼミ’１９：人工知能開発ツール）",
 		"teacher": "西野　哲朗",
 		"url": "31/31_21017152.html",
-		"grade": "1/2",
-		"depertment": "情報理工学域",
+		"grade": "1,2",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13905,8 +13905,8 @@
 		"name": "学域特別講義A（基礎物理学実験）(Introduction to Physics Laboratory) ",
 		"teacher": "未定",
 		"url": "31/31_21017153.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13918,8 +13918,8 @@
 		"name": "学域特別講義A（基礎化学実験）（Introduction to Chemistry Laboratory )",
 		"teacher": "小林　義男",
 		"url": "31/31_21017154.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13931,8 +13931,8 @@
 		"name": "学域特別講義A（マインドスポーツゲームを学ぶ）(Learn to Play Games Called Mind Sports)",
 		"teacher": "保木　邦仁",
 		"url": "31/31_21017155.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13944,8 +13944,8 @@
 		"name": "学域特別講義A（融合領域の最新動向A）(Current Topics in Emerging Multi-interdisciplinary Engineering A)",
 		"teacher": "小泉・太田・加藤（聰）・鈴木（淳）・鷲沢・笠井・内田（雅）・饗庭・中村（友）",
 		"url": "31/31_21017156.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13957,8 +13957,8 @@
 		"name": "学域特別講義A（基盤理工学A）(Current Topics in Fundamental Science and Engineering A)",
 		"teacher": "一色・Matuttis・Sandlu・岡田（佳）・富田・渡邊（信）・牧",
 		"url": "31/31_21017157.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13970,8 +13970,8 @@
 		"name": "学域特別講義B（’１９標準化）",
 		"teacher": "阿部　浩二",
 		"url": "31/31_21017158.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -13984,7 +13984,7 @@
 		"teacher": "西（康）・三輪",
 		"url": "31/31_21018134.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -13997,7 +13997,7 @@
 		"teacher": "高田（哲）・中村（友）",
 		"url": "31/31_21018135.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -14010,7 +14010,7 @@
 		"teacher": "瀧　真清・渡邉　恵理子・Matuttis Hans-Georg",
 		"url": "31/31_21018136.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -14023,7 +14023,7 @@
 		"teacher": "西（康）・三輪",
 		"url": "31/31_21018137.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -14036,7 +14036,7 @@
 		"teacher": "高田（哲）・中村（友）",
 		"url": "31/31_21018138.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -14049,7 +14049,7 @@
 		"teacher": "瀧　真清・渡邉　恵理子・Matuttis Hans-Georg",
 		"url": "31/31_21018139.html",
 		"grade": "3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "実践教育科目"
 	},
 	{
@@ -14061,8 +14061,8 @@
 		"name": "特別活動（集中）（H30年度以前入学生）",
 		"teacher": "西野　真由美",
 		"url": "31/31_21025106.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14074,8 +14074,8 @@
 		"name": "教育課程編成論B（集中）",
 		"teacher": "澤田　稔",
 		"url": "31/31_21025108.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14087,8 +14087,8 @@
 		"name": "数学科教育法IB（集中）",
 		"teacher": "田村　篤史",
 		"url": "31/31_21025110.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14100,8 +14100,8 @@
 		"name": "理科教育法IA（集中）",
 		"teacher": "平田　昭雄",
 		"url": "31/31_21025111.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14113,8 +14113,8 @@
 		"name": "情報科教育法I（集中）",
 		"teacher": "小原　格",
 		"url": "31/31_21025112.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14126,8 +14126,8 @@
 		"name": "理科教育法Ⅲ（集中）",
 		"teacher": "島崎　朝彦",
 		"url": "31/31_21025113.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14139,8 +14139,8 @@
 		"name": "教育制度論B（集中）",
 		"teacher": "堤　孝晃",
 		"url": "31/31_21025114.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14153,7 +14153,7 @@
 		"teacher": "佐々木（啓）・赤澤・武石",
 		"url": "31/31_21025116.html",
 		"grade": "4",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14166,7 +14166,7 @@
 		"teacher": "佐々木（啓）・赤澤・武石",
 		"url": "31/31_21025118.html",
 		"grade": "4",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14178,8 +14178,8 @@
 		"name": "生徒指導・進路指導論（集中）（H30年度以前入学生）",
 		"teacher": "武石　典史",
 		"url": "31/31_21025119.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14308,8 +14308,8 @@
 		"name": "サマートレーニング（学域）（集中）",
 		"teacher": "青山　尚之",
 		"url": "31/31_21017301.html",
-		"grade": "3/4",
-		"depertment": "情報理工学域",
+		"grade": "3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -14321,7 +14321,7 @@
 		"name": "情報工学工房（学域）",
 		"teacher": "工藤　俊亮",
 		"url": "31/31_21124301.html",
-		"grade": "1/2/3/4",
+		"grade": "1,2,3,4",
 		"depertment": "Ⅰ類",
 		"category": "専門科目"
 	},
@@ -14334,7 +14334,7 @@
 		"name": "電子工学工房（学域）",
 		"teacher": "高橋（弘）・野村・石川（亮）・安藤（芳）・萓野・小島・鷲沢",
 		"url": "31/31_21224301.html",
-		"grade": "1/2/3/4",
+		"grade": "1,2,3,4",
 		"depertment": "Ⅱ類",
 		"category": "専門科目"
 	},
@@ -14386,8 +14386,8 @@
 		"name": "法学Ｂ（集中）",
 		"teacher": "荒邦　啓介",
 		"url": "31/31_21011211.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -14399,8 +14399,8 @@
 		"name": "生涯スポーツ演習Ｄ（スキー集中）",
 		"teacher": "大河原・安藤(創)・岡田(英・狩野・星野・○新井・○布目・○千足・○泉水・○未定",
 		"url": "31/31_21014216.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -14413,7 +14413,7 @@
 		"teacher": "佐々木　直子",
 		"url": "31/31_21017203.html",
 		"grade": "1/2/3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -14426,7 +14426,7 @@
 		"teacher": "佐々木　直子",
 		"url": "31/31_21017204.html",
 		"grade": "1/2/3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "総合文化科目"
 	},
 	{
@@ -14439,7 +14439,7 @@
 		"teacher": "未定",
 		"url": "31/31_21019278.html",
 		"grade": "1/2/3",
-		"depertment": "情報理工学域",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "専門科目"
 	},
 	{
@@ -14451,8 +14451,8 @@
 		"name": "教育方法・技術論（集中）",
 		"teacher": "福本　徹",
 		"url": "31/31_21025207.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14464,8 +14464,8 @@
 		"name": "教育原理B（集中）",
 		"teacher": "井口　博充",
 		"url": "31/31_21025208.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14477,8 +14477,8 @@
 		"name": "教職論B（集中）",
 		"teacher": "○堤孝晃・○赤澤紀子・佐々木啓子",
 		"url": "31/31_21025210.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14490,8 +14490,8 @@
 		"name": "特別支援教育総論（集中）",
 		"teacher": "宇部　弘子",
 		"url": "31/31_21025211.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14503,8 +14503,8 @@
 		"name": "教育心理学（集中）",
 		"teacher": "青山　征彦",
 		"url": "31/31_21025212.html",
-		"grade": "1/2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "1,2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14516,8 +14516,8 @@
 		"name": "数学科教育法IV（集中）",
 		"teacher": "牧下　英世",
 		"url": "31/31_21025217.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{
@@ -14529,8 +14529,8 @@
 		"name": "理科教育法II（集中）",
 		"teacher": "平田　昭雄",
 		"url": "31/31_21025218.html",
-		"grade": "2/3/4",
-		"depertment": "情報理工学域",
+		"grade": "2,3,4",
+		"depertment": "Ⅰ類,Ⅱ類,Ⅲ類",
 		"category": "教職科目"
 	},
 	{

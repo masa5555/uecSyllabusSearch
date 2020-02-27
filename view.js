@@ -30,33 +30,12 @@ function view(){
   document.write("</thead>\n");
   document.write("<tbody>\n");
   for(let i = 0; i<data.length; i++){
-    //データ正規化で対応すべき
-    let depertment = data[i].depertment;
-    if(depertment == "情報理工学域") 
-      depertment = "Ⅰ,Ⅱ,Ⅲ";
-    else if(depertment == "Ⅰ類")
-      depertment = "Ⅰ";
-    else if(depertment == "Ⅱ類")
-      depertment = "Ⅱ";
-    else if(depertment == "Ⅲ類") 
-      depertment = "Ⅲ";
-    
-    let grade = data[i].grade;
-    if(grade == "1/2/3/4")
-      grade = "1,2,3,4";
-    else if(grade  == "2/3/4")
-      grade = "2,3,4";
-    else if(grade == "3/4")
-      grade = "3,4";
-    else if(grade == "1/2")
-      grade = "1,2";
-
     document.writeln(
       "<tr>\n"
       + " <td>" + data[i].num + "</td>\n"
       + " <td>" + data[i].semester +  "</td>\n"
-      + " <td>" + grade  + "</td>\n"
-      + " <td>" + depertment + " </td>\n"
+      + " <td>" + data[i].grade  + "</td>\n"
+      + " <td>" + data[i].depertment + " </td>\n"
       + " <td>" + data[i].time + "</td>\n"
       + " <td>" + data[i].code + "</td>\n" 
       + " <td>" + data[i].category + "</td>\n"

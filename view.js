@@ -1,6 +1,6 @@
 //reference of readJSON(): https://miyakoroom.blogspot.com/2018/09/javascript-web.html
 function readJSON(){
-  var f = "data1.json";
+  var f = "data2019.json";
   var retJson;
   var obj = new XMLHttpRequest();
  
@@ -8,11 +8,12 @@ function readJSON(){
   obj.onload = function(){
     retJson = JSON.parse(this.responseText); //JSON型でパース。
   }
-  obj.send(null); 
+  obj.send(null);
   return retJson;
 }
 
 var data = readJSON();
+
 var fragItem = [];
 for(let i = 0; i < data.length; i++){
   var tmp = {name: true, teacher: true, semester: true, grade: true, depertment: 1, time: true};
@@ -20,6 +21,7 @@ for(let i = 0; i < data.length; i++){
 }
 
 function view(){
+
   document.write("<table>\n");
   document.write("<thead>\n");
   document.write(
@@ -29,6 +31,7 @@ function view(){
   );
   document.write("</thead>\n");
   document.write("<tbody>\n");
+  
   for(let i = 0; i<data.length; i++){
     document.writeln(
       "<tr>\n"
@@ -46,9 +49,11 @@ function view(){
   }
   document.write("</tbody>\n");
   document.writeln("</table>");
+
 }
 
 function search(pattern, item){
+
   //Update frag
   if(pattern == ""){
     for(let i = 0; i < data.length; i++)
@@ -62,6 +67,7 @@ function search(pattern, item){
         fragItem[i][item] = false;
     }
   }
+
   // Change view
   let rowStatus = document.getElementsByTagName("tr");
   for(let i = 0; i < data.length; i++){
@@ -74,18 +80,9 @@ function search(pattern, item){
       rowStatus[i+1].removeAttribute('style');
     else
       rowStatus[i+1].setAttribute('style', 'display: none;');
+    }
   }
+
 }
 
-/*
-function jinbun(){
-  let d = document.getElementsByTagName("tr");
-  for(let i = 0; i < 1124; i++){
-    if(data[i]['category'] == "総合文化科目" && (data[i]['time'] == "水1" || data[i]['time'] == "水1" || data[i]['time'] == "水2" || data[i]['time'] == "水5"))
-      d[i+1].removeAttribute('style');    
-    else
-      d[i+1].setAttribute('style', 'display: none;');
-  }
-}
-*/
 view();

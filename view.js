@@ -74,15 +74,14 @@ function search(pattern, item){
     let fragResult = true;
     let tmpArray = ["name", "teacher", "semester", "grade", "depertment", "time"];
     for(let j = 0; j < tmpArray.length; j++)
-      fragResult = fragResult && fragItem[i][tmpArray[j]]
+      fragResult = fragResult && fragItem[i][tmpArray[j]];
 
     if(fragResult)
       rowStatus[i+1].removeAttribute('style');
     else
       rowStatus[i+1].setAttribute('style', 'display: none;');
-    }
+    
   }
-
 }
 
 view();

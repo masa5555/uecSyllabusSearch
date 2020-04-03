@@ -1,6 +1,6 @@
 //reference of readJSON(): https://miyakoroom.blogspot.com/2018/09/javascript-web.html
 function readJSON(){
-  var f = "data2019.json";
+  var f = "data2020.json";
   var retJson;
   var obj = new XMLHttpRequest();
  

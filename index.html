@@ -17,11 +17,11 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <p>インタラクティブな検索ができます。</p>
+    <p>インタラクティブな検索, ローカルストレージを利用したお気に入り保存ができます。</p>
     <p>
        ご意見頂けると嬉しいです。
        <a href="https://forms.gle/wzPBm8erJVwLLQjn9"
-       onClick="ga('send', 'event', 'link', 'click', 'form', '1');"
+       onClick="ga('send', 'event', 'link', 'click', 'form', 1);"
        >Google Form</a>
     </p>
     <p>
@@ -35,11 +35,11 @@
         <i class="fas fa-book-open"></i>
         科目名
         <input 
-               type="text"
-               placeholder="例:クラス5"
-               onInput="search(this.value, 'name') 
-                        ga('send', 'event', 'search', 'input', 'name', '1');"
-               ></input>
+          type="text"
+          placeholder="例:クラス5"
+          onInput="search(this.value, 'name') 
+            ga('send', 'event', 'search', 'input', 'name', '1');"
+        ></input>
       </div>
   
       <div class="nameSearch">
@@ -83,6 +83,9 @@
         曜日・時間
         <input type="text" placeholder="例：月1" onInput="search(this.value, 'time')"></input>
       </div>  
+      <div class ="second">
+        <button onClick="showFavorite()">お気に入りのみ切り替え</button>
+      </div>
     </div>
 
     <div class="explanation">

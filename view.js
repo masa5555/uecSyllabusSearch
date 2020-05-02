@@ -1,3 +1,5 @@
+const year = 2020;
+
 //reference of readJSON(): https://miyakoroom.blogspot.com/2018/09/javascript-web.html
 function readJSON(){
   const f = "data/data20200416.json";
@@ -51,7 +53,7 @@ function view(){
     if(favoriteList[i]){
       favoriteHTML = "<i class=\"fas fa-star\" onClick=\"removeFavorite("+i+")\" ></i>";
     }
-      const prevURL = "http://kyoumu.office.uec.ac.jp/syllabus/2019/";
+      const prevURL = "http://kyoumu.office.uec.ac.jp/syllabus/" + year +"/";
 
     document.writeln(
       "<tr>\n"

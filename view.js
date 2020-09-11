@@ -2,7 +2,7 @@ const year = 2020;
 
 //reference of readJSON(): https://miyakoroom.blogspot.com/2018/09/javascript-web.html
 function readJSON(){
-  const f = "data/data20200416.json";
+  const f = "data/data20200912.json";
   let retJson;
   let obj = new XMLHttpRequest();
  

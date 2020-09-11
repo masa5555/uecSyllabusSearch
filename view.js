@@ -73,6 +73,19 @@ function view(){
   document.write("</tbody>\n");
   document.writeln("</table>");
 
+  init();
+}
+
+function init(){
+  let rowStatus = document.getElementsByTagName("tr");
+
+  for(let i = 0; i < data.length; i++){
+    if(i <= 20){
+      rowStatus[i+1].removeAttribute('style', 'display: none;');
+    }else{
+      rowStatus[i+1].setAttribute('style', 'display: none;');
+    }
+  }
 }
 
 function search(pattern, item){
@@ -91,6 +104,10 @@ function search(pattern, item){
     }
   }
 
+  //表示件数
+  let numShowColumn = 20;
+  let showColumnCount = 0;
+
   // Change view
   let rowStatus = document.getElementsByTagName("tr");
   for(let i = 0; i < data.length; i++){
@@ -99,11 +116,12 @@ function search(pattern, item){
     for(let j = 0; j < tmpArray.length; j++)
       fragResult = fragResult && fragItem[i][tmpArray[j]];
 
-    if(fragResult)
+    if(fragResult && showColumnCount < numShowColumn){
       rowStatus[i+1].removeAttribute('style', 'display: none;');
-    else
+      showColumnCount++;
+    }else{
       rowStatus[i+1].setAttribute('style', 'display: none;');
-    
+    }
   }
 }
 

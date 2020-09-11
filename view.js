@@ -80,7 +80,7 @@ function init(){
   let rowStatus = document.getElementsByTagName("tr");
 
   for(let i = 0; i < data.length; i++){
-    if(i <= 20){
+    if(i < 20){
       rowStatus[i+1].removeAttribute('style', 'display: none;');
     }else{
       rowStatus[i+1].setAttribute('style', 'display: none;');
@@ -152,17 +152,7 @@ function showFavorite(){
   let rowStatus = document.getElementsByTagName("tr");
   if(favoriteFrag){
     favoriteFrag = false;
-    for(let i = 0; i < data.length; i++){
-      let fragResult = true;
-      let tmpArray = ["name", "teacher", "semester", "grade", "depertment", "time"];
-      for(let j = 0; j < tmpArray.length; j++)
-        fragResult = fragResult && fragItem[i][tmpArray[j]];
-
-      if(fragResult) 
-        rowStatus[i+1].removeAttribute('style', 'display: none;');
-      else
-        rowStatus[i+1].setAttribute('style', 'display: none;');
-    }
+    init();
   }else{
     favoriteFrag = true;
     for(let i = 0; i < data.length; i++){

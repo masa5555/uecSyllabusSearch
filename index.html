@@ -33,6 +33,7 @@
         科目名
         <input 
           type="text"
+          class="searchForm"
           placeholder="例:クラス5"
           onInput="search(this.value, 'name') 
             ga('send', 'event', 'search', 'input', 'name', '1');"
@@ -42,7 +43,7 @@
       <div class="nameSearch">
         <i class="fas fa-user-tag"></i>
         教員名
-        <input type="text"  onInput="search(this.value, 'teacher')"></input>
+        <input class="searchForm" type="text"  onInput="search(this.value, 'teacher')"></input>
       </div>
   
       <div class="nameSearch">
@@ -79,10 +80,10 @@
       <div class="nameSearch">
         <i class="fas fa-calendar-alt"></i>
         曜日・時間
-        <input type="text" placeholder="例：月1" onInput="search(this.value, 'time')"></input>
+        <input class="searchForm" type="text" placeholder="例：月1" onInput="search(this.value, 'time')"></input>
       </div>  
-      <div class ="second">
-        <button onClick="showFavorite()">お気に入りのみ切り替え</button>
+      <div>
+        <button class ="favoriteButton" onClick="showFavorite()">お気に入りのみ表示</button>
       </div>
     </div>
 

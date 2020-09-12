@@ -16,22 +16,33 @@ function readJSON(){
 
 const data = readJSON();
 var fragItem = [];
-for(let i = 0; i < data.length; i++){
+for(let i = 0; i < Object.keys(data).length; i++){
   let tmp = {name: true, teacher: true, semester: true, grade: true, depertment: 1, time: true};
   fragItem.push(tmp);
 }
 
 //production
-//localStorage.removeItem('localFavoriteList');
-//localStorage.setItems('localFavoriteList', JSON.stringify(favoriteList));
+//localStorage.setItem('localFavoriteList', JSON.stringify(favoriteList));
+//stringとobjectの違いに気を付ける
 
-//init
+//init　favorite list
 var favoriteFrag = false;
-var favoriteList = localStorage.getItem('localFavoriteList');
-if(favoriteList == null){
-  favoriteList = Array(data.length).fill(false);
-}else{
-  favoriteList = JSON.parse(favoriteList);
+var favoriteList = JSON.parse(localStorage.getItem("localFavoriteList"));
+
+if(favoriteList == null || favoriteList.length != Object.keys(data).length){
+  favoriteList = Array(Object.keys(data).length).fill(false);
+}
+
+function init_view(){
+  let rowStatus = document.getElementsByTagName("tr");
+
+  for(let i = 0; i < Object.keys(data).length; i++){
+    if(i < 20){
+      rowStatus[i+1].removeAttribute('style', 'display: none;');
+    }else{
+      rowStatus[i+1].setAttribute('style', 'display: none;');
+    }
+  }
 }
 
 view();
@@ -48,7 +59,7 @@ function view(){
   document.write("</thead>\n");
   document.write("<tbody>\n");
   
-  for(let i = 0; i<data.length; i++){
+  for(let i = 0; i<Object.keys(data).length; i++){
     let favoriteHTML = "<i class=\"far fa-star\" onClick=\"addFavorite("+i+")\" ></i>";
     if(favoriteList[i]){
       favoriteHTML = "<i class=\"fas fa-star\" onClick=\"removeFavorite("+i+")\" ></i>";
@@ -73,30 +84,19 @@ function view(){
   document.write("</tbody>\n");
   document.writeln("</table>");
 
-  init();
+  init_view();
 }
 
-function init(){
-  let rowStatus = document.getElementsByTagName("tr");
-
-  for(let i = 0; i < data.length; i++){
-    if(i < 20){
-      rowStatus[i+1].removeAttribute('style', 'display: none;');
-    }else{
-      rowStatus[i+1].setAttribute('style', 'display: none;');
-    }
-  }
-}
 
 function search(pattern, item){
 
   //Update frag
   if(pattern == ""){
-    for(let i = 0; i < data.length; i++)
+    for(let i = 0; i < Object.keys(data).length; i++)
       fragItem[i][item] = true;
   }else{
     let re = new RegExp(pattern);
-    for(let i = 0; i < data.length; i++){
+    for(let i = 0; i < Object.keys(data).length; i++){
       if( re.exec(data[i][item]) )
         fragItem[i][item] = true;
       else
@@ -110,7 +110,7 @@ function search(pattern, item){
 
   // Change view
   let rowStatus = document.getElementsByTagName("tr");
-  for(let i = 0; i < data.length; i++){
+  for(let i = 0; i < Object.keys(data).length; i++){
     let fragResult = true;
     let tmpArray = ["name", "teacher", "semester", "grade", "depertment", "time"];
     for(let j = 0; j < tmpArray.length; j++)
@@ -132,8 +132,6 @@ function addFavorite(index){
   
   favoriteList[index] = true;
   localStorage.setItem('localFavoriteList', JSON.stringify(favoriteList));
-  //console.log(favoriteList);
-  //console.log(localStorage.getItem('localFavoriteList'));
 }
 
 function removeFavorite(index){
@@ -143,22 +141,32 @@ function removeFavorite(index){
 
   favoriteList[index] = false;
   localStorage.setItem('localFavoriteList', JSON.stringify(favoriteList));
-  //console.log(favoriteList);
-  //console.log(localStorage.getItem('localFavoriteList'));
-  
 }
 
 function showFavorite(){
   let rowStatus = document.getElementsByTagName("tr");
   if(favoriteFrag){
     favoriteFrag = false;
-    init();
+    init_view();
+
+    let favoriteButtonElement = document.getElementsByClassName("favoriteButton");
+    favoriteButtonElement[0].innerHTML = "お気に入りのみ表示";
   }else{
     favoriteFrag = true;
-    for(let i = 0; i < data.length; i++){
+    for(let i = 0; i < Object.keys(data).length; i++){
       if(favoriteList[i] == false){
         rowStatus[i+1].setAttribute('style', 'display: none;');
+      }else{
+        rowStatus[i+1].removeAttribute('style', 'display: none;');
       }
     }
+
+    let searchFormElement = document.getElementsByClassName("searchForm");
+    searchFormElement[0].value = "";
+    searchFormElement[1].value = "";
+    searchFormElement[2].value = "";
+
+    let favoriteButtonElement = document.getElementsByClassName("favoriteButton");
+    favoriteButtonElement[0].innerHTML = "解除";
   }
 }

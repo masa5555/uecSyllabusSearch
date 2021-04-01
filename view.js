@@ -1,8 +1,8 @@
-const year = 2020;
+const year = 2021;
 
 //reference of readJSON(): https://miyakoroom.blogspot.com/2018/09/javascript-web.html
 function readJSON(){
-  const f = "data/data20200912.json";
+  const f = "data/data20210401.json";
   let retJson;
   let obj = new XMLHttpRequest();
  
@@ -107,6 +107,7 @@ function search(pattern, item){
   //表示件数
   let numShowColumn = 20;
   let showColumnCount = 0;
+  let matched_count = 0;
 
   // Change view
   let rowStatus = document.getElementsByTagName("tr");
@@ -115,6 +116,8 @@ function search(pattern, item){
     let tmpArray = ["name", "teacher", "semester", "grade", "depertment", "time"];
     for(let j = 0; j < tmpArray.length; j++)
       fragResult = fragResult && fragItem[i][tmpArray[j]];
+    if (fragResult)
+      matched_count += 1;
 
     if(fragResult && showColumnCount < numShowColumn){
       rowStatus[i+1].removeAttribute('style', 'display: none;');
@@ -123,6 +126,8 @@ function search(pattern, item){
       rowStatus[i+1].setAttribute('style', 'display: none;');
     }
   }
+  console.log(document.getElementsByClassName("match-count"));
+  document.getElementsByClassName("match-count")[0].innerHTML = "<strong>" + matched_count + "</strong> 件にマッチしました";
 }
 
 function addFavorite(index){
